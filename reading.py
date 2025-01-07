@@ -22,11 +22,26 @@ def process_pdf(file_path):
 
 if __name__ == '__main__':
     # Caminho do arquivo PDF
-    pdf_path = "pdf/prova.pdf"
+    pdf_path = "pdf/gabaritoenem.pdf"
 
     try:
         result = process_pdf(pdf_path)
         print("Texto extraído:")
-        print(result["text"])
+        #print(result["text"])
+        contador = 0
+        contador2 = 0
+        for letras in result["text"]:
+            contador2 +=1
+            if(contador2 > 161):
+                print(letras, end='')
+
+                contador += 1
+
+            # if contador == 3:
+            #     print()
+            #     contador = 0
+
+
+
     except Exception as e:
         print(f"Erro ao processar o PDF: {e}")
