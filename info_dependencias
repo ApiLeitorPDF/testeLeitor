@@ -1,0 +1,6 @@
+Como usar o requirements.txt em outro ambiente
+Se outra pessoa (ou você) quiser rodar o projeto em outro ambiente, basta usar o comando:
+
+pip install -r requirements.txt
+
+Isso instalará todas as dependências listadas no arquivo.
