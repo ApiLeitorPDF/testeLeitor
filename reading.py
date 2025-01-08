@@ -1,7 +1,5 @@
 import os
 import pdfplumber
-from pymupdf.extra import page_count
-
 
 def extract_text_from_pdf(file_path):
     """Extrai texto de um PDF."""
@@ -22,25 +20,13 @@ def process_pdf(file_path):
     return {"text": text}
 
 
-
 if __name__ == '__main__':
     # Caminho do arquivo PDF
-    pdf_path = "pdf/gabaritodia22024.pdf"
+    pdf_path = "pdf/superampli2017-5-6.pdf"
 
     try:
         result = process_pdf(pdf_path)
         print("Texto extraído:")
-        #print(result["text"])
-
-        # Extrair apenas o texto
-        with pdfplumber.open("pdf/2017gabarito.pdf") as pdf:
-            page = pdf.pages[0]
-            area_gabarito = (100, 220, 500, 780)
-            cropped_page = page.within_bbox(area_gabarito)
-            texto_area = cropped_page.extract_text()
-            print(texto_area)
-
-
-
+        print(result["text"])
     except Exception as e:
         print(f"Erro ao processar o PDF: {e}")

@@ -24,9 +24,9 @@ def extract_images_from_pdf(file_path):
                 import io
                 image = Image.open(io.BytesIO(image_bytes))
 
-                # Converter para RGB se necessário
-                if image.mode == "CMYK":
-                    image = image.convert("RGB")
+                # # Converter para RGB se necessário
+                # if image.mode == "CMYK":
+                #     image = image.convert("RGB")
 
                 # Salvar a imagem no formato PNG
                 image_name = f"page_{page_number + 1}_image_{img_index + 1}.png"
