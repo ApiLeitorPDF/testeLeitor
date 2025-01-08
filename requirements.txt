@@ -3,3 +3,4 @@ PyPDF2
 pdfplumber
 Pillow
 PyMuPDF
+pytesseract
