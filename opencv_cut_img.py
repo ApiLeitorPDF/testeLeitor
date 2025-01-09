@@ -1,7 +1,7 @@
 import cv2
 import os
-import random
 import numpy as np
+import random
 
 def process_images_in_directory(input_directory, output_directory):
 
