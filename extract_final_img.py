@@ -65,8 +65,8 @@ def process_and_cut_images(input_images, output_dir="cut-imgs"):
         contours, _ = cv2.findContours(edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
         image_counter = 0
-        min_width = image.shape[1] * 0.15
-        min_height = image.shape[0] * 0.15
+        min_width = image.shape[1] * 0.05
+        min_height = image.shape[0] * 0.05
 
         for contour in contours:
             x, y, w, h = cv2.boundingRect(contour)
@@ -84,7 +84,7 @@ def process_and_cut_images(input_images, output_dir="cut-imgs"):
 
 def main():
 
-    pdf_file = "pdf/prova.pdf"  # Caminho do PDF de entrada
+    pdf_file = "pdf/2021super.pdf"  # Caminho do PDF de entrada
     cut_images_dir = "cut-imgs"
     page_images = extract_pages_as_images(pdf_file)
     process_and_cut_images(page_images, output_dir=cut_images_dir)
