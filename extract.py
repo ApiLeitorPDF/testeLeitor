@@ -8,16 +8,7 @@ from PIL import Image
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 def extract_pages_as_images(pdf_path, output_dir="output_images"):
-    """
-    Extrai cada página de um PDF como imagem.
 
-    Args:
-        pdf_path (str): Caminho para o arquivo PDF.
-        output_dir (str): Diretório para salvar as imagens das páginas.
-
-    Returns:
-        list: Lista de caminhos das imagens extraídas.
-    """
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -34,16 +25,7 @@ def extract_pages_as_images(pdf_path, output_dir="output_images"):
     return image_paths
 
 def process_and_cut_images(input_images, output_dir="cut-imgs"):
-    """
-    Processa uma lista de imagens, aplica transformações e recorta regiões de interesse.
 
-    Args:
-        input_images (list): Lista de caminhos para as imagens de entrada.
-        output_dir (str): Diretório para salvar as imagens recortadas.
-
-    Returns:
-        None
-    """
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -97,7 +79,7 @@ def process_and_cut_images(input_images, output_dir="cut-imgs"):
 
 def main():
 
-    pdf_file = "pdf/2021super.pdf"  # Caminho do PDF de entrada
+    pdf_file = "pdf/prova2021.pdf"
     cut_images_dir = "cut-imgs"
     page_images = extract_pages_as_images(pdf_file)
     process_and_cut_images(page_images, output_dir=cut_images_dir)
