@@ -60,7 +60,6 @@ def extract_images_with_colored_borders(pdf_path, output_folder, upscale_factor=
                 print(f"Imagem salva: {output_path}")
 
     doc.close()
-
     print("Processamento concluído!")
 
 pdf_path = "pdf/2024ampliComBordas.pdf"
