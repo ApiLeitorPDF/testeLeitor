@@ -79,7 +79,7 @@ def process_and_cut_images(input_images, output_dir="cut-imgs"):
 
 def main():
 
-    pdf_file = "pdf/prova2021.pdf"
+    pdf_file = "pdf/prova2021_segundoDia.pdf"
     cut_images_dir = "cut-imgs"
     page_images = extract_pages_as_images(pdf_file)
     process_and_cut_images(page_images, output_dir=cut_images_dir)
