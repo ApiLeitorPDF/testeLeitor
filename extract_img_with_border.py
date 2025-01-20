@@ -9,8 +9,8 @@ BORDER_COLOR = (255, 0, 255)  # Purple in BGR format for OpenCV
 BORDER_THICKNESS = 3  # Adjust thickness; note that PyMuPDF uses points, not pixels
 MIN_IMAGE_AREA = 50000  # Minimum area for border application
 MAX_IMAGE_AREA = 5000000  # Maximum area for border application
-PAGES_FOLDER = "uploads"
-IMAGES_FOLDER = "questoesimg"
+PAGES_FOLDER = "uploads" # -> mudar
+IMAGES_FOLDER = "questoesimg" # -> mudar
 os.makedirs(PAGES_FOLDER, exist_ok=True)
 os.makedirs(IMAGES_FOLDER, exist_ok=True)
 
