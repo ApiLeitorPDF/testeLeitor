@@ -29,7 +29,6 @@ def extract_text_from_pdf(file_path, crop_area=None):
 
     return text
 
-
 def clean_text(text):
     text = re.sub(r"(ENEM2024|ENEM20E4|ENEM2024)+", "ENEM2024", text)
     text = re.sub(r"ENEM2024", "", text)
@@ -56,7 +55,7 @@ def process_pdf(file_path, crop_area=None):
 
 
 if __name__ == '__main__':
-    pdf_path = "pdf/2018spamp.pdf"
+    pdf_path = "pdf/2024ampli.pdf"
 
     try:
         result = process_pdf(pdf_path)
