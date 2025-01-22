@@ -1,5 +1,7 @@
 import re
 
+import fitz
+
 
 def extrair_verticalmente_pymupdf(pdf_path, numero_pagina, lado="esquerdo"):
     doc = fitz.open(pdf_path)
