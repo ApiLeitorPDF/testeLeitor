@@ -3,7 +3,6 @@ import pytesseract
 from PIL import Image
 import os
 
-
 # Configurar o caminho do Tesseract, se necessário (Windows)
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
@@ -67,7 +66,6 @@ def extract_images_from_pdf(pdf_path, output_dir="extracted_images"):
             image_filename = os.path.join(
                 output_dir, f"page_{page_number + 1}_image_{img_index + 1}.{image_ext}"
             )
-
             # Salvar a imagem no disco
             with open(image_filename, "wb") as image_file:
                 image_file.write(image_bytes)

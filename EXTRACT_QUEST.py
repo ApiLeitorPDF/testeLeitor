@@ -12,7 +12,7 @@ def extract_questions(pdf_path):
             page_rect = page.rect
             limited_area_rect = fitz.Rect(
                 page_rect.x0,  # Lado esquerdo
-                page_rect.y0 + 40,  # Excluir os primeiros 40px (cabeçalho)
+                page_rect.y0 + 75,  # Excluir os primeiros 40px (cabeçalho)
                 page_rect.x1,  # Lado direito
                 page_rect.y1 - 40  # Excluir os últimos 40px (rodapé)
             )
@@ -40,8 +40,7 @@ def extract_questions(pdf_path):
     except Exception as e:
         return [f"Erro ao processar o PDF: {e}"]
 
-
-pdf_path = "pdf/prova2024_dia1.pdf"
+pdf_path = "pdf/prova2022_dia1.pdf"
 questions = extract_questions(pdf_path)
 
 with open("questoes.txt", "w", encoding="utf-8") as file:
