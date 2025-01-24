@@ -45,7 +45,7 @@ def extract_questions(pdf_path):
         # Remover a expressão "(opção: <idioma>)"
         full_text = re.sub(r"\(opção:\s*\w+\)", "", full_text)
 
-        # Regex para capturar apenas os blocos que seguem o padrão "QUESTÃO <número>"
+        # Regex para capturar apenas os blocos que seguem o padrão "QUESTÃO <número> ou Questão <número>"
         question_pattern = r"(QUESTÃO \d+\s+.*?(?=QUESTÃO \d+|$))"
         questions = re.findall(question_pattern, full_text, re.DOTALL)
 
@@ -68,7 +68,7 @@ def save_to_pdf(output_pdf_path, questions):
     pdf_document.save(output_pdf_path)
     pdf_document.close()
 
-pdf_path = "pdf/prova2010_dia1.pdf"
+pdf_path = "pdf/prova2011_dia1.pdf"
 output_txt_path = "questoes.txt"
 output_pdf_path = "questoes_extraidas.pdf"
 
