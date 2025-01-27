@@ -81,7 +81,7 @@ def segmentar_questoes_enem(pdf_path):
 # Uso no Colab
 
 # Upload do PDF
-pdf_path = "/content/enem2023.pdf"
+pdf_path = "pdf/prova2009_dia1.pdf"
 
 # Processar e exibir
 prova_estruturada = segmentar_questoes_enem(pdf_path)

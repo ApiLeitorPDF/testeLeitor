@@ -45,14 +45,13 @@ def extract_questions_with_structure(pdf_path):
                                     coletando_enunciado = True
 
                             # Identificar alternativas (A, B, C, D, E)
-                            elif fonte == "BundesbahnPiStd-1" and texto in "ABCDE":
+                            elif texto in "ABCDE" and len(texto) == 1:
                                 ultima_letra = texto
 
-                            # Continuação do texto das alternativas (ArialMT)
+                            # Continuação do texto das alternativas
                             elif fonte == "ArialMT" and ultima_letra:
                                 if questao_atual:
-                                    if not questao_atual["alternativas"] or questao_atual["alternativas"][-1][
-                                        "letra"] != ultima_letra:
+                                    if not questao_atual["alternativas"] or questao_atual["alternativas"][-1]["letra"] != ultima_letra:
                                         questao_atual["alternativas"].append({
                                             "letra": ultima_letra,
                                             "texto": texto
@@ -60,7 +59,6 @@ def extract_questions_with_structure(pdf_path):
                                     else:
                                         # Adiciona texto à alternativa existente
                                         questao_atual["alternativas"][-1]["texto"] += " " + texto
-                                    ultima_letra = None  # Limpa a última letra
                                     coletando_enunciado = False
 
                             # Coletar o enunciado após a fonte
@@ -80,7 +78,6 @@ def extract_questions_with_structure(pdf_path):
     except Exception as e:
         return [f"Erro ao processar o PDF: {e}"]
 
-
 def save_to_txt(output_txt_path, estrutura_prova):
     try:
         with open(output_txt_path, "w", encoding="utf-8") as file:
@@ -95,7 +92,6 @@ def save_to_txt(output_txt_path, estrutura_prova):
         print(f"Questões salvas em: {output_txt_path}")
     except Exception as e:
         print(f"Erro ao salvar o arquivo TXT: {e}")
-
 
 # Caminhos para entrada e saída
 pdf_path = "pdf/prova2022_dia1.pdf"
