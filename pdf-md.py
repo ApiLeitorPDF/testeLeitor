@@ -125,7 +125,7 @@ def save_to_markdown(output_md_path, estrutura_prova):
         print(f"Erro ao salvar o arquivo Markdown: {e}")
 
 # Configurações
-pdf_path = "/content/enem2023.pdf"
+pdf_path = "pdf/prova2023_dia1.pdf"
 output_md_path = "prova_enem_estruturada.md"
 
 # Processamento

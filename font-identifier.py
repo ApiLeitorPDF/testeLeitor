@@ -1,6 +1,6 @@
 import fitz
 
-doc = fitz.open("/content/enem2010.pdf")
+doc = fitz.open("pdf/prova2009_dia1-com-borda.pdf")
 pagina = doc[1]
 
 # Extrair blocos de texto com detalhes

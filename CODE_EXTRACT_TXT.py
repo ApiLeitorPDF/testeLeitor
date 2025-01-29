@@ -103,7 +103,7 @@ def save_to_txt(output_txt_path, estrutura_prova):
         print(f"Erro ao salvar o arquivo TXT: {e}")
 
 # Caminhos para entrada e saída
-pdf_path = "pdf/prova2016_dia1.pdf"
+pdf_path = "pdf/prova2009_dia1-com-borda.pdf"
 output_txt_path = "questoes_extraidas_formatadas.txt"
 
 # Processar e salvar as questões
