@@ -84,7 +84,7 @@ def process_and_cut_images(input_images, output_dir="cut-imgs"):
 
 def main():
 
-    pdf_file = "pdf/prova2009_dia1-com-borda.pdf"
+    pdf_file = "pdf/prova2019_dia1.pdf"
     output_images_dir = "output_images"
     cut_images_dir = "cut-imgs"
     page_images = extract_pages_as_images(pdf_file, output_dir=output_images_dir, scale_factor=3)
