@@ -3,7 +3,7 @@ from tkinter import filedialog, scrolledtext, simpledialog, messagebox
 import fitz  # PyMuPDF
 import json
 import re
-import base64  # Import necessário para converter imagens para base64
+
 
 def segmentar_questoes_enem(pdf_path):
     doc = fitz.open(pdf_path)
@@ -21,26 +21,8 @@ def segmentar_questoes_enem(pdf_path):
 
         blocks = page_obj.get_text("dict", flags=fitz.TEXT_PRESERVE_WHITESPACE)["blocks"]
         for block in blocks:
-            # Se o bloco for do tipo imagem, processa e insere a tag HTML com a imagem em base64
-            if block.get("type") == 1:
-                xref = block.get("image")
-                try:
-                    img_info = doc.extract_image(xref)
-                    img_bytes = img_info["image"]
-                    ext = img_info["ext"]
-                    img_b64 = base64.b64encode(img_bytes).decode("utf-8")
-                    html_img_tag = f'<img src="data:image/{ext};base64,{img_b64}" />'
-                    # Se já estivermos processando uma questão, adiciona a imagem ao enunciado
-                    if questao_atual:
-                        questao_atual["enunciado"] += " " + html_img_tag
-                except Exception as e:
-                    print("Erro ao processar imagem:", e)
-                continue
-
-            # Processa apenas blocos que possuem linhas (ou seja, blocos de texto)
             if "lines" not in block:
                 continue
-
             for line in block["lines"]:
                 for span in line["spans"]:
                     tamanho = span["size"]
@@ -51,17 +33,16 @@ def segmentar_questoes_enem(pdf_path):
                     # Ignora spans cujo tamanho não esteja entre 5 e 11, ou seja, se for menor que 5, maior que 11, ou igual a 7 ou 8
                     if tamanho < 5 or tamanho > 11 or tamanho in (7, 8) or \
                             texto.startswith("LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS Questões de 01 a 45") or \
+                            texto.startswith("LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS") or \
+                            texto.startswith("Questões de 06 a 45") or \
                             texto.startswith("CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS Questões de 46 a 90") or \
                             texto.startswith("CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS Questões de 91 a 135") or \
                             texto.startswith("MATEMÁTICA E SUAS TECNOLOGIAS Questões de 136 a 180") or \
                             texto.startswith("Questões de 01 a 05 (opção espanhol)") or \
                             texto.startswith("19 CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS") or \
                             texto.startswith("Questões de 46 a 90") or \
-                            texto.startswith("Questões de 06 a 45") or \
                             texto.startswith("CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS") or \
-                            texto.startswith("LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS") or \
                             texto.startswith("\t\u0007 ") or \
-                            texto == "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS Questões de 06 a 45" or \
                             texto.startswith("LC - 1º dia | Caderno "):
                         continue
 
