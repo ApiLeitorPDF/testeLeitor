@@ -21,32 +21,62 @@ def segmentar_questoes_enem(pdf_path):
 
         blocks = page_obj.get_text("dict", flags=fitz.TEXT_PRESERVE_WHITESPACE)["blocks"]
         for block in blocks:
+            # Se o bloco for uma imagem (tipo 1), insere o placeholder
+            if block.get("type") == 1:
+                placeholder = "[aqui tem imagem]"
+                # Debug: imprimir se um bloco de imagem foi encontrado
+                # print("Bloco de imagem encontrado na página", page)
+                if questao_atual:
+                    if alternativa_atual:  # Se estiver processando uma alternativa
+                        questao_atual["alternativas"][alternativa_atual] = questao_atual["alternativas"].get(alternativa_atual, "") + " " + placeholder
+                    else:  # Caso contrário, adiciona ao enunciado da questão
+                        questao_atual["enunciado"] += " " + placeholder
+                continue
+
             if "lines" not in block:
                 continue
+
             for line in block["lines"]:
                 for span in line["spans"]:
                     tamanho = span["size"]
                     texto = span["text"].strip()
-                    texto = re.sub(r'[\t\u0007]+', '', texto)
+                    # Remove tabulações e \u0007, se necessário (ou substitua por espaço)
+                    texto = re.sub(r'[\t\u0007]+', ' ', texto)
                     fonte = span["font"]
 
-                    # Ignora spans cujo tamanho não esteja entre 5 e 11, ou seja, se for menor que 5, maior que 11, ou igual a 7 ou 8
-                    if tamanho < 5 or tamanho > 11 or tamanho in (7, 8) or \
-                            texto.startswith("LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS Questões de 01 a 45") or \
-                            texto.startswith("LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS") or \
-                            texto.startswith("Questões de 06 a 45") or \
-                            texto.startswith("CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS Questões de 46 a 90") or \
-                            texto.startswith("CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS Questões de 91 a 135") or \
-                            texto.startswith("MATEMÁTICA E SUAS TECNOLOGIAS Questões de 136 a 180") or \
-                            texto.startswith("Questões de 01 a 05 (opção espanhol)") or \
-                            texto.startswith("19 CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS") or \
-                            texto.startswith("Questões de 46 a 90") or \
-                            texto.startswith("CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS") or \
-                            texto.startswith("\t\u0007 ") or \
-                            texto.startswith("LC - 1º dia | Caderno "):
+                    # Ignora spans com tamanho indesejado ou textos que correspondam a cabeçalhos de seção indesejados
+                    if (fonte == "Arial-BoldMT" and tamanho == 8) or tamanho < 5 or tamanho > 11 or \
+                        any(texto.startswith(s) for s in [
+                            "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS Questões de 01 a 45",
+                            "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS Questões de 46 a 90",
+                            "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS Questões de 91 a 135",
+                            "MATEMÁTICA E SUAS TECNOLOGIAS Questões de 136 a 180",
+                            "Questões de 01 a 05 (opção espanhol)",
+                            "19 CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS",
+                            "Questões de 46 a 90",
+                            "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS",
+                            "• LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1",
+                            "DIA • CADERNO 1 • AZUL 5",
+                            "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO",
+                            "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1",
+                            "DIA • CADERNO 1 • AZUL •",
+                            "DIA • CADERNO 1 • AZUL ",
+                            "DIA • CADERNO [1-3][0-9]",
+                            "DIA • CADERNO [0-9]",
+                            "DIA • CADERNO 1 • AZUL •",
+                            "DIA • CADERNO 1 • AZUL r'^[0-9]$",
+                            "DIA • CADERNO 1 • AZUL r'^[0-9][0-9]$",
+                            "• CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS • 1",
+                            "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+                            "Questões de 06 a 45",
+                            "DIA •",
+                            "DIA",
+                            "\t\u0007 ",
+                            "LC - 1º dia | Caderno "
+                        ]):
                         continue
 
-                    # Início de nova questão: usa fonte Arial-BoldMT e texto que inicia com "QUESTÃO" ou "Questão"
+                    # Início de nova questão: detecta pela fonte Arial-BoldMT e texto que inicia com "QUESTÃO" ou "Questão"
                     if fonte == "Arial-BoldMT" and (texto.startswith("QUESTÃO") or texto.startswith("Questão")):
                         if questao_atual:
                             questoes.append(questao_atual)
@@ -57,22 +87,15 @@ def segmentar_questoes_enem(pdf_path):
                         }
                         alternativa_atual = None
 
-                    # Marcador de alternativa: fonte BundesbahnPiStd-1 e texto é apenas uma letra (A a E)
+                    # Marcador de alternativa: detecta pela fonte BundesbahnPiStd-1 e texto de apenas uma letra (A a E)
                     elif fonte == "BundesbahnPiStd-1" and re.match(r'^[A-E]$', texto):
                         alternativa_atual = texto
 
-                    # Se a fonte for ArialMT, Arial-ItalicMT ou Arial-BoldMT e houver um marcador ativo,
-                    # acumula o texto da alternativa
+                    # Se a fonte for uma das desejadas e houver um marcador ativo, acumula o texto da alternativa
                     elif fonte in ["ArialMT", "Arial-ItalicMT", "Arial-BoldMT"] and alternativa_atual is not None:
                         if questao_atual:
-                            if alternativa_atual in questao_atual["alternativas"]:
-                                questao_atual["alternativas"][alternativa_atual] += " " + texto
-                            else:
-                                questao_atual["alternativas"][alternativa_atual] = texto
-                        # Não reseta alternativa_atual para permitir a concatenação de spans subsequentes
-
-                    # Se a fonte for uma das desejadas e não estivermos capturando alternativa,
-                    # acumula o texto no enunciado
+                            questao_atual["alternativas"][alternativa_atual] = questao_atual["alternativas"].get(alternativa_atual, "") + " " + texto
+                    # Se a fonte for uma das desejadas sem marcador ativo, acumula no enunciado
                     elif fonte in ["ArialMT", "Arial-ItalicMT", "Arial-BoldMT"]:
                         if questao_atual:
                             questao_atual["enunciado"] += " " + texto
@@ -83,6 +106,7 @@ def segmentar_questoes_enem(pdf_path):
     if questao_atual:
         questoes.append(questao_atual)
     return questoes
+
 
 def process_pdf():
     pdf_path = filedialog.askopenfilename(title="Selecione o PDF da prova", filetypes=[("Arquivos PDF", "*.pdf")])
@@ -111,7 +135,7 @@ def process_pdf():
                         except ValueError:
                             continue
                         resposta = parts[1].strip().upper()
-                        if resposta in ["ANULADA", "*", "", "Anulada", "anulado"]:
+                        if resposta in ["ANULADA", "*", "", "Anulada", "anulada"]:
                             gab_dict[qnum] = ""
                         else:
                             gab_dict[qnum] = resposta
@@ -140,6 +164,7 @@ def process_pdf():
     text_box.delete(1.0, tk.END)
     text_box.insert(tk.END, json_output)
 
+
 def save_json():
     output_path = filedialog.asksaveasfilename(title="Salvar JSON como", defaultextension=".json", filetypes=[("Arquivos JSON", "*.json")])
     if output_path:
@@ -147,8 +172,10 @@ def save_json():
             json_file.write(text_box.get(1.0, tk.END))
         messagebox.showinfo("Sucesso", f"Arquivo salvo em:\n{output_path}")
 
+
 def exit_app():
     root.quit()
+
 
 # Configuração da interface gráfica
 root = tk.Tk()
