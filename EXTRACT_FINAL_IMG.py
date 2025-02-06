@@ -7,7 +7,7 @@ import shutil
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-def extract_pages_as_images(pdf_path, output_dir="output_images", scale_factor=3):
+def extract_pages_as_images(pdf_path, output_dir="output_images", scale_factor=2):
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -84,10 +84,10 @@ def process_and_cut_images(input_images, output_dir="cut-imgs"):
 
 def main():
 
-    pdf_file = "pdf/prova2024_dia2.pdf"
+    pdf_file = "pdf/prova2021.pdf"
     output_images_dir = "output_images"
     cut_images_dir = "cut-imgs"
-    page_images = extract_pages_as_images(pdf_file, output_dir=output_images_dir, scale_factor=3)
+    page_images = extract_pages_as_images(pdf_file, output_dir=output_images_dir, scale_factor=2)
     process_and_cut_images(page_images, output_dir=cut_images_dir)
     shutil.rmtree(output_images_dir)
 

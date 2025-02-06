@@ -74,7 +74,7 @@ def extract_images_from_pdf(pdf_path, output_dir="extracted_images"):
 
 
 # Exemplo de uso
-pdf_file = "pdf/2021super.pdf"
+pdf_file = "pdf/prova2021.pdf"
 
 # Extrair texto do PDF
 output_text = extract_text_from_pdf(pdf_file)

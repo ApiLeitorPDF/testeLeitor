@@ -1,0 +1,26 @@
+{
+    "prova": "ENEM",
+    "ano": 2019,
+    "questoes": [
+        {
+            "enunciado": "Qual a cor do cavalo branco de Napoleão?",
+            "alternativas": {
+                "A": "Branco",
+                "B": "Preto",
+                "C": "Cinza",
+                "D": "Marrom"
+            },
+            "alternativa_correta": "A"
+        },
+        {
+            "enunciado": "Qual a cor do cavalo preto de Napoleão?",
+            "alternativas": {
+                "A": "Branco",
+                "B": "Preto",
+                "C": "Cinza",
+                "D": "Marrom"
+            },
+            "alternativa_correta": "B"
+        }
+    ]
+}
