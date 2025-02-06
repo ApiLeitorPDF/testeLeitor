@@ -1,8 +1,9 @@
 
-Questão 10:
+<h3>Questão 10:</h3>
 
-Intenso e original, Son of Saul retrata horror do holocausto
+<h4>Intenso e original, Son of Saul retrata horror do holocausto<h4>
 
+<p>
 Centenas de filmes sobre o holocausto já foram produzidos em diversos países do mundo, mas nenhum é tão intenso como o húngaro Son of Saul, do estreante em longa-metragens László Nemes, vencedor do Grande Prêmio do Júri no último Festival de Cannes.
 Ao contrário da grande maioria das produções do gênero, que costuma oferecer uma variedade de informações didáticas e não raro cruza diferentes pontos de vista sobre o horror do campo de concentração, o filme acompanha apenas um personagem.
 Ele é Saul (Géza Röhrig), um dos encarregados de conduzir as execuções de judeus como ele que, por um dia e meio, luta obssessivamente para que um menino já morto — que pode ou não ser seu filho — tenha um enterro digno e não seja simplesmente incinerado.
@@ -10,26 +11,28 @@ O acompanhamento da jornada desse prisioneiro é no sentido mais literal que o c
 Saul percorre diferentes divisões de Auschwitz à procura de um rabino que possa conduzir o enterro da criança, e por isso pouco se envolve nos planos de fuga que os companheiros tramam e, quando o faz, geralmente atrapalha. “Você abandonou os vivos para cuidar de um morto”, acursa um deles.
 Ver toda essa via crucis é por vezes duro e exige certa entrega do espectador, mas certamente é daquelas experiências cinematográficas que permanecem na cabeça por muito tempo.
 O longa já está sendo apontado como o grande favorito ao Oscar de filme estrangeiro. Se levar a estatueta, certamente não faltará quem diga que a Academia tem uma preferência por que aborda a 2ª Guerra. Por mais que exista uma dose de verdade na afirmação, premiar uma abordagem tão ousada e radical como Son of Saul não deixaria de ser um passo à frente dos volantes.
+</p>
 
-Carta Capital, n 873, 22out 2015.
+<p><strong>Carta Capital</strong>, n 873, 22out 2015.</p>
 
+<p>
 A resenha é, normalmente, um texto de base argumentativa. Na resenha do filme Son of Saul, o trecho da sequência argumentativa que se constitui como opinião implícita é
+</p>
 
-A) “[…] do estreante em longa-metragens László Nemes, vencedor do Grande Prêmio do Júri no último Festival de Cannes.”
-B) “Ele é Saul (Géza Röhrig), um dos encarregados de conduzir as execuções de judeus […]”
-C) “[…] a câmera está o tempo todo com o personagem, seja por sobre seus ombros, seja com um close […]”
-D) “Saul percorre diferentes divisões de Auschwitz à procura de um rabino que possa conduzir o enterro da criança […]”
-E) “[…] premiar uma abordagem tão ousada e radical como Son of Saul não deixaria de ser um passo à frente dos volantes.”.
+<p>A) “[…] do estreante em longa-metragens László Nemes, vencedor do Grande Prêmio do Júri no último Festival de Cannes.”</p>
+<p>B) “Ele é Saul (Géza Röhrig), um dos encarregados de conduzir as execuções de judeus […]”</p>
+<p>C) “[…] a câmera está o tempo todo com o personagem, seja por sobre seus ombros, seja com um close […]”</p>
+<p>D) “Saul percorre diferentes divisões de Auschwitz à procura de um rabino que possa conduzir o enterro da criança […]”</p>
+<p>E) “[…] premiar uma abordagem tão ousada e radical como Son of Saul não deixaria de ser um passo à frente dos volantes.”.</p>
 
-Resposta correta:  Alternativa E
+<p>Resposta correta:  Alternativa E</p>
 
 --------------------------------------------------
 
 Questão 11:
 
-Título: Sinhá
+Sinhá
 
-Texto:
 Se a dona se banhou
 Eu não estava lá
 Por Deus Nosso Senhor
@@ -110,7 +113,8 @@ A crise dos refugiados imortalizada para sempre no fundo do mar
 
 Possui imagem : sim
 
-TAYLOR J.C. A balsa de Lampedusa. InstalaçãoMusei Atlântico. Lanzarote, Canárias, 2016 (detalhe)
+TAYLOR, J. C. A balsa de Lampedusa. Instalação.
+Museu Atlântico, Lanzarote, Canárias, 2016 (detalhe)
 
 A balsa de Lampedusa, nome da obra de Taylor, que abre este post, é uma das instalações criadas por ele para compor o acervo do primeiro museu submarino da Europa, o Museu Atlântico, localizado em Lanzarote, uma das ilhas do arquipélago das Canárias.
 Lampedusa é o nome da ilha italiana onde a grande maioria dos refugiados que saem da África ou de países como Síria, Líbano e Iraque, tenta chegar para conseguir asilo no continente europeu.
@@ -132,7 +136,6 @@ Resposta correta: Alternativa E
 --------------------------------------------------
 
 Questão 15:
-
 
 TEXTO I
 Correu à sala dos retratos, abriu o piano, sentou-se e espalmou as mãos no teclado. Começou a tocar alguma coisa própria, uma inspiração real e pronta, uma polca, uma polca buliçosa, como dizem os anúncios. Nenhuma repulsa da parte do compositor; os dedos iam arrancando as notas, ligando-as, meneando-as; dir-se-ia que a musa compunha e bailava a um tempo. […….] Compunha só, teclando ou escrevendo, sem os vãos esforços da véspera, sem exasperação, sem nada pedir ao céu, sem interrogar os olhos de Mozart. Nenhum tédio. Vida, graça, novidade, escorriam-lhe da alma como de uma fonte perene.
@@ -186,8 +189,6 @@ Resposta correta: Alternativa B
 
 Questão 17:
 
-Título:
-
 Texto: A história do futebol brasileiro contém, ao longo de um século, registros de episódios racistas. Eis o paradoxo: se, de um lado, a atividade futebolística era depreciada aos olhos da “boa sociedade” como profissão destinada aos pobres, negros e marginais, de outro, achava-se investida do poder de representar e projetar a nação em escala mundial. A Copa do Mundo no Brasil, em 1950, viria a se constituir, nesse sentido, em uma rara oportunidade. Contudo, na decisão contra o Uruguai sobreveio o inesperado revés. As crônicas esportivas elegiam o goleiro Barbosa e o defensor Bigode como bodes expiatórios, “descarregando nas costas” dos jogadores os “prejuízos” da derrota. Uma chibata moral, eis a setença proferida no tribual dos brancos. Nos anos 1970, por não atender às expectativas normativas suscitadas pelo estereótipo do “bom negro”, Paulo César Lima foi classificado como “jogador-problema”. Ele esboçava a revolta da chibata no futebol brasileiro. Enquanto Barbosa e Bigode, sem alternativa, suportaram o linchamento moral na derrota de 1950, Paulo César contra-atacava os que pretendiam condená-lo pelo insucesso de 1974. O jogador assumia as cores e as causas defendidas pela esquadra dos pretos em todas as esferas da vida social. “Sinto na pele esse racismo subjacente”, revelou à imprensa francesa: “Isto é, ninguém ousa pronunciar a palavra ‘racismo”. Mas posso garantir que ele existe, mesmo na Seleção Brasileira”. Sua ousadia consistiu em pronunciar a palavra interdita no espaço simbólico do discurso oficial para reafirmar o mito da democracia racial.
 
 Referência: Disponível em: https://observatorioracialfutebol.com.br. Acesso em: 22 jun. 2019 (adaptado).
@@ -209,23 +210,18 @@ Resposta correta: Alternativa E
 
 Questão 18:
 
-Título:
-
-Texto:
-
 Possui imagem : sim
 
-Referência: MEIRRELES, V. Moema, Óleo sobre tela, 129 cm x 190 cm. Masp, São Paulo, 1866.
-Referência: Disponível em: www.masp.art.br. Acesso em: 13 ago. 2012 (adaptado).
+MEIRRELES, V. Moema, Óleo sobre tela, 129 cm x 190 cm. Masp, São Paulo, 1866.
+Disponível em: www.masp.art.br. Acesso em: 13 ago. 2012 (adaptado).
 
-Pergunta: Nessa obra, que retrata uma cena de Caramuru, célebre poema épico brasileiro, a filiação à estética romântica manifesta-se na
+Nessa obra, que retrata uma cena de Caramuru, célebre poema épico brasileiro, a filiação à estética romântica manifesta-se na
 
-Alternativas:
-  A) exaltação do retrato fiel da beleza feminina.
-  B) tematização da fragilidade humana diante da morte.
-  C) ressignificação de obras do cânone literário nacional.
-  D) representação dramática e idealizada do corpo da Índia.
-  E) oposição entre a condição humana e a natureza primitiva.
+A) exaltação do retrato fiel da beleza feminina.
+B) tematização da fragilidade humana diante da morte.
+C) ressignificação de obras do cânone literário nacional.
+D) representação dramática e idealizada do corpo da Índia.
+E) oposição entre a condição humana e a natureza primitiva.
 
 Resposta correta: Alternativa D
 
@@ -233,23 +229,20 @@ Resposta correta: Alternativa D
 
 Questão 19:
 
-Título:
+Coincidindo com o Dia Internacional dos Direitos da Infância, foram apresentados diversos trabalhos que mostram as mudanças que afetam a vida das crianças. Um desses estudos compara o que sonham e brincam as crianças hoje em relação às dos anos 1990. E o que se descobriu é que as crianças têm agora menos lazer e estão mais sobrecarregadas por deveres e atividades extracurriculares do que as de 25 anos atrás. As crianças de hoje não só dedicam menos tempo para brincar, como também, quando brincam, a maioria não o faz com outras crianças no parque, na rua ou na praça, mas em casa e muitas vezes sozinhas. E já não brincam tanto com brinquedos, mas com aparelhos eletrônicos, entre os quais predomina o jogo individual com a máquina.  OLIVIA, M. P. O direito das crianças ao lazer… e a crescer sem carências. El País, 20 nov. 2015(adaptado). O texto indica que as transformações nas experiências lúdicas na infância A) fomentaram as relações sociais entre as crianças. B) tornaram o lazer uma prática difundida entre as crianças. C) incentivaram a criação de novos espaços para se divertir. D) promoveram uma vivência corporal menos ativa. E) contribuíram para o aumento do tempo dedicado para brincar. Solução O enunciado ressalta que as experiências lúdicas passaram por transformações, direcionando o vestibulando a focar no impacto das tecnologias modernas de informação sobre o público infantil. O texto destaca que as crianças de hoje interagem mais com máquinas do que com outras pessoas, o que reduz significativamente a vivência corporal e social com o próximo. Além disso, compara as crianças contemporâneas com as dos anos 1990, mostrando que as de hoje têm menos tempo para brincar e, quando brincam, fazem isso de forma mais isolada, exibindo uma menor interação física. Alternativa D
 
-Texto: Coincidindo com o Dia Internacional dos Direitos da Infância, foram apresentados diversos trabalhos que mostram as mudanças que afetam a vida das crianças. Um desses estudos compara o que sonham e brincam as crianças hoje em relação às dos anos 1990. E o que se descobriu é que as crianças têm agora menos lazer e estão mais sobrecarregadas por deveres e atividades extracurriculares do que as de 25 anos atrás. As crianças de hoje não só dedicam menos tempo para brincar, como também, quando brincam, a maioria não o faz com outras crianças no parque, na rua ou na praça, mas em casa e muitas vezes sozinhas. E já não brincam tanto com brinquedos, mas com aparelhos eletrônicos, entre os quais predomina o jogo individual com a máquina.  OLIVIA, M. P. O direito das crianças ao lazer… e a crescer sem carências. El País, 20 nov. 2015(adaptado). O texto indica que as transformações nas experiências lúdicas na infância A) fomentaram as relações sociais entre as crianças. B) tornaram o lazer uma prática difundida entre as crianças. C) incentivaram a criação de novos espaços para se divertir. D) promoveram uma vivência corporal menos ativa. E) contribuíram para o aumento do tempo dedicado para brincar. Solução O enunciado ressalta que as experiências lúdicas passaram por transformações, direcionando o vestibulando a focar no impacto das tecnologias modernas de informação sobre o público infantil. O texto destaca que as crianças de hoje interagem mais com máquinas do que com outras pessoas, o que reduz significativamente a vivência corporal e social com o próximo. Além disso, compara as crianças contemporâneas com as dos anos 1990, mostrando que as de hoje têm menos tempo para brincar e, quando brincam, fazem isso de forma mais isolada, exibindo uma menor interação física. Alternativa D
-
-Referência: OLIVIA, M. P. O direito das crianças ao lazer… e a crescer sem carências.
-Referência: El País, 20 nov. 2015(adaptado).
+OLIVIA, M. P. O direito das crianças ao lazer… e a crescer sem carências.
+El País, 20 nov. 2015(adaptado).
 
 Possui imagem : não
 
-Pergunta: O texto indica que as transformações nas experiências lúdicas na infância.
+O texto indica que as transformações nas experiências lúdicas na infância.
 
-Alternativas:
-  A) fomentaram as relações sociais entre as crianças.
-  B) tornaram o lazer uma prática difundida entre as crianças.
-  C) incentivaram a criação de novos espaços para se divertir.
-  D) promoveram uma vivência corporal menos ativa.
-  E) contribuíram para o aumento do tempo dedicado para brincar.
+A) fomentaram as relações sociais entre as crianças.
+B) tornaram o lazer uma prática difundida entre as crianças.
+C) incentivaram a criação de novos espaços para se divertir.
+D) promoveram uma vivência corporal menos ativa.
+E) contribuíram para o aumento do tempo dedicado para brincar.
 
 Resposta correta: Alternativa D
 
@@ -257,34 +250,28 @@ Resposta correta: Alternativa D
 
 Questão 20:
 
-Título:
+Que tal transformar a internet em palco para a dança?
 
 Possui imagem : sim
 
-Texto: O coreógrado e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. Mini@tures é uma experiência emblemática entre movimento, computador, internet e vídeo. Com os recursos da computação gráfica, a dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como palco, o processo de criação das miniaturas de dança levou em consideração os limites de tempo de download e o tamanho de arquivo, para que um número maior de “espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação entre mídias: corpo/dança/computação gráfica/internet. De fato, é a rede que faz a maior diferença nesse grupo. Mini@tures explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.
+O coreógrado e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. Mini@tures é uma experiência emblemática entre movimento, computador, internet e vídeo. Com os recursos da computação gráfica, a dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como palco, o processo de criação das miniaturas de dança levou em consideração os limites de tempo de download e o tamanho de arquivo, para que um número maior de “espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação entre mídias: corpo/dança/computação gráfica/internet. De fato, é a rede que faz a maior diferença nesse grupo. Mini@tures explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.
 
-Referência: SPANGHERO. M. A dança dos encéfalos acesos.
-Referência: São Paulo: Itaú Cultural, 2003 (adaptado).
+SPANGHERO. M. A dança dos encéfalos acesos.
+São Paulo: Itaú Cultural, 2003 (adaptado).
 
-Pergunta: Considerado o primeiro projeto de dança contemporânea concebido para a rede, esse trabalho é apresentado como inovador por
+Considerado o primeiro projeto de dança contemporânea concebido para a rede, esse trabalho é apresentado como inovador por
 
-Alternativas:
-  A) adotar uma perspectiva conceitual como contraposição à tradição de grandes espetáculos.
-  B) criar novas formas de financiamento ao utilizar a internet para divulgação das apresentações
-  C) privilegiar movimentos geradors por computação gráfica, com a substituição do palco pela tela.
-  D) produzir uma arte multimodal, com intuito de ampliar as possibilidades de expressão estética
-  E) redefinir a extensão e o propósito do espetáculo para adaptá-lo ao perfil de diferentes usuários.
+A) adotar uma perspectiva conceitual como contraposição à tradição de grandes espetáculos.
+B) criar novas formas de financiamento ao utilizar a internet para divulgação das apresentações
+C) privilegiar movimentos geradors por computação gráfica, com a substituição do palco pela tela.
+D) produzir uma arte multimodal, com intuito de ampliar as possibilidades de expressão estética
+E) redefinir a extensão e o propósito do espetáculo para adaptá-lo ao perfil de diferentes usuários.
 
 Resposta correta: Alternativa D
+
 --------------------------------------------------
 
 Questão 21:
-
-Título:
-
-Texto:
-
-Possui imagem : não
 
 TEXTO I
    O mito da estiagem em São Paulo
@@ -300,37 +287,30 @@ Referência: Disponível em: www.jornalopcao.com.br Acesso em: 17 Jan. 2015 (ada
 
 Pergunta: Os textos I e II abordam a situação dos reservatórios de água doce do planeta. Entretanto, a divergência entre eles está na ideia de que é possível
 
-Alternativas:
-  A) manter os estoques de água doce
-  B) utilizar a água superficial para o consumo.
-  C) repor os estoques de água doce em regiões áridas.
-  D) reduzir as taxas de precipitação e evaporação da água
-  E) equalizar a distribuição de água doce nas diferentes regiões
+A) manter os estoques de água doce
+B) utilizar a água superficial para o consumo.
+C) repor os estoques de água doce em regiões áridas.
+D) reduzir as taxas de precipitação e evaporação da água
+E) equalizar a distribuição de água doce nas diferentes regiões
 
 Resposta correta: Alternativa A
 --------------------------------------------------
 
 Questão 22:
 
-Título:
-
-Texto:
-
 Possui imagem : não
 
-TEXTO I
 Os linguistas têm notado a expansão do tratamento informal. “Tenho 78 anos e devia ser tratado por senhor, mas meus alunos mais jovens me tratam por você“, diz o professor Ataliba Castilho, aparentemente sem se incomodar com a informalidade, inconcebível em seus tempos de estudante. O você, porém, não reinará sozinho. O tu predomina em Porto Alegre e convive com o você no Rio de Janeiro e em Recife, enquanto você é o tratamento predominante em São Paulo, Curitiba, Belo Horizonte e Salvador. O tu já era mais próximo e menos formal que você nas quase 500 cartas do acervo on-line de uma instituição universitária, quase todas de poetas, políticos e outras personalidades do final do século XIX e início do XX.
 
-Referência: Disponível em: www.cartanaescola.com.br. Acesso em: 17 Jan. 2015 (adaptado).
+Disponível em: www.cartanaescola.com.br. Acesso em: 17 Jan. 2015 (adaptado).
 
-Pergunta: No texto, constata-se que os usos de pronomes variaram ao longo do tempo e que atualmente têm empregos diversos pelas regiões do Brasil. Esse processo revela que
+No texto, constata-se que os usos de pronomes variaram ao longo do tempo e que atualmente têm empregos diversos pelas regiões do Brasil. Esse processo revela que
 
-Alternativas:
-  A) a escolha de ‘você’ ou de ‘tu’ está condicionada a idade da pessoa que usa o pronome.
-  B) a possibilidade de usar tanto ‘tu’ quanto ‘você’ caracteriza a diversidade da língua.
-  C) o pronome ‘tu’ tem sido empregado em situações informais por todo o  país.
-  D) a ocorrência simultânea de ‘tu’ e de ‘você’ evidencia a inexistência de distinção entre níveis de formalidade.
-  E) o emprego de ‘você’ em documentos escritos demonstra que a língua tende a se manter inalterada.
+A) a escolha de ‘você’ ou de ‘tu’ está condicionada a idade da pessoa que usa o pronome.
+B) a possibilidade de usar tanto ‘tu’ quanto ‘você’ caracteriza a diversidade da língua.
+C) o pronome ‘tu’ tem sido empregado em situações informais por todo o país.
+D) a ocorrência simultânea de ‘tu’ e de ‘você’ evidencia a inexistência de distinção entre níveis de formalidade.
+E) o emprego de ‘você’ em documentos escritos demonstra que a língua tende a se manter inalterada.
 
 Resposta correta: Alternativa B
 
@@ -338,23 +318,20 @@ Resposta correta: Alternativa B
 
 Questão 23:
 
-Título:
-
 Possui imagem : não
 
-Texto: O solo, A morte do Cisne, criado em 1905 pelo russo Mikhial Fokine a partir da música do francês Camile Saint-Saens, retrata o último vôo do cisne antes de morrer. Na versão original, uma bailarina com figurino impecavelmente branco e na ponta dos pés interpreta toda a agonia da ave se debatando até desfalecer.
+O solo, A morte do Cisne, criado em 1905 pelo russo Mikhial Fokine a partir da música do francês Camile Saint-Saens, retrata o último vôo do cisne antes de morrer. Na versão original, uma bailarina com figurino impecavelmente branco e na ponta dos pés interpreta toda a agonia da ave se debatando até desfalecer.
 Em 2012, John Lennon da Silva, de 20 anaos, morador do bairro de São Mateus, na Zona Leste de São Paulo, elaborou um novo jeito de dançar a coriografia imoortalizada pela bailarina Anna Pavlova. No lugar de colã e das sapatilhas, vestiu calça jeans, camiseta e tênis. Em vez de balé, trouxe o estilo popping do street dance. Sua apresentação inovadora, A morte do Cisne , que foi ao ar no programa se ela dança eu danço, virou Hit no YouTube.
 
-Referência: Disponível em: www.correiobraziliense.com.br. Acesso em: 18 jun. 2019 (adaptado).
+Disponível em: www.correiobraziliense.com.br. Acesso em: 18 jun. 2019 (adaptado).
 
-Pergunta: A forma original de John Lennon da Silva reinterpretar a coreografia A morte do Cisne demonstra que.
+A forma original de John Lennon da Silva reinterpretar a coreografia A morte do Cisne demonstra que.
 
-Alternativas:
-  A) a composição da coreografia foi influenciada pela escolha do figurino.
-  B) a criação artística é beneficiada pelo encontro de modelos oriundos de diferentes realidades socioculturais.
-  C) A variação entre os modos de dançar uma mesma música evidencia a hierarqui9a  que marca as manifestações artísticas.
-  D) a formação erudita, a qual o dançarino não teve acesso, resulta de artistas que só conhecem a estética da arte popular.
-  E) a interpretação, por homens, de coreografias originalmente concebidas para mulheres exige uma adaptação complexa.
+A) a composição da coreografia foi influenciada pela escolha do figurino.
+B) a criação artística é beneficiada pelo encontro de modelos oriundos de diferentes realidades socioculturais.
+C) a variação entre os modos de dançar uma mesma música evidencia a hierarquia que marca as manifestações artísticas.
+D) a formação erudita, a qual o dançarino não teve acesso, resulta de artistas que só conhecem a estética da arte popular.
+E) a interpretação, por homens, de coreografias originalmente concebidas para mulheres exige uma adaptação complexa.
 
 Resposta correta: Alternativa B
 
@@ -362,22 +339,19 @@ Resposta correta: Alternativa B
 
 Questão 24:
 
-Título:
-
 Possui imagem : não
 
-Texto: Seus primeiros anos de detento foram difíceis; aos poucos entendeu como o sistema funciona. Apanhou dezenas de vezes, teve o crânio esmagado, o maxilar deslocado, braços e pernas quebrados; por fim, um dia ficou lesionado da perna quando foi jogado da laje de um pavilhão. Nem todas as vezes ele soube por que apanhou, muito menos da última, quando foi deixado para morrer, mas sobreviveu. Seu corpo, moído no inferno, aguarda o fim dos seus dias. Já não questiona mais. Obedece. Cumpre as ordens. Baixa a cabeça e se retira. Apanha, às vezes com motivo, às vezes sem. Por onde passou, derramaram seu sangue. Seu rastro pode ser seguido. Intriga ter sobrevivido durante tantos anos. Pouquíssimos chegaram à terceira idade encarcerados.
+Seus primeiros anos de detento foram difíceis; aos poucos entendeu como o sistema funciona. Apanhou dezenas de vezes, teve o crânio esmagado, o maxilar deslocado, braços e pernas quebrados; por fim, um dia ficou lesionado da perna quando foi jogado da laje de um pavilhão. Nem todas as vezes ele soube por que apanhou, muito menos da última, quando foi deixado para morrer, mas sobreviveu. Seu corpo, moído no inferno, aguarda o fim dos seus dias. Já não questiona mais. Obedece. Cumpre as ordens. Baixa a cabeça e se retira. Apanha, às vezes com motivo, às vezes sem. Por onde passou, derramaram seu sangue. Seu rastro pode ser seguido. Intriga ter sobrevivido durante tantos anos. Pouquíssimos chegaram à terceira idade encarcerados.
 
-Referência: MAIA, A. P. Assim na terra como embaixo da terra. Rio de Janeiro: Record, 2017.
+MAIA, A. P. Assim na terra como embaixo da terra. Rio de Janeiro: Record, 2017.
 
-Pergunta: A narrativa concentra sua força expressiva no manejo de recursos formais e numa representação ficcional que
+A narrativa concentra sua força expressiva no manejo de recursos formais e numa representação ficcional que
 
-Alternativas:
-  A) buscam perpetuar visões do senso comum.
-  B) trazem à tona atitudes de um estado de exceção.
-  C) promovem a interlocução com grupos silenciados.
-  D) inspiram o sentimento de justiça por meio da empatia.
-  E) recorrem ao absurdo como forma de traduzir a realidade.
+A) buscam perpetuar visões do senso comum.
+B) trazem à tona atitudes de um estado de exceção.
+C) promovem a interlocução com grupos silenciados.
+D) inspiram o sentimento de justiça por meio da empatia.
+E) recorrem ao absurdo como forma de traduzir a realidade.
 
 Solução: A narrativa descreve uma rotina desumana em que o personagem é alvo de extrema violência sem saber por que está sendo atacado. Aos poucos, ele começa a aceitar passivamente essa realidade, sem tentar compreendê-la, por mais brutal que seja. Embora o texto não mencione explicitamente um estado de exceção, ele evidencia práticas como abuso prisional, perseguição de indivíduos por um “sistema” e a submissão das pessoas após serem torturadas. Essas atitudes são características de regimes ditatoriais, que frequentemente operam sob um estado de exceção.
 
@@ -387,25 +361,21 @@ Resposta correta:  Alternativa B
 
 Questão 25:
 
-Título:
-
 Possui imagem : não
 
-Texto:
 – O senhor pensa que só porque o deixaram morar neste país pode logo ir fazendo o que quer? Nunca ouviu falar num troço chamado autoridades constituídas? Não sabe que tem de conhecer as leis do país? Não sabe que existe uma coisa chamada Exército Brasileiro, que o senhor tem de respeitar? Que negócio é esse? {…] Eu ensino o senhor a cumprir a lei, ali no duro: “dura lex”! Seus filhos são uns moleques e outra vez que eu souber que andaram incomodando o General, vai tudo em cana. Morou? Sei como tratar gringos feito o senhor. […] Foi então que a mulher do vizinho do General interveio:
 – Era tudo que o senhor tinha a dizer a meu marido? Odelegado apenas olhou-a, espantado com o atrevimento.
 – Pois então fique sabendo que eu também sei tratar tipos como o senhor. Meu marido não é gringo nem meus filhos são moleques. Se por acaso importunaram o General, ele que viesse falar comigo, pois o senhor que sou brasileira, sou prima de um Major do Exército, sobrinha de um Coronel, e filha de um General! Morou? Estarrecido, o delegado só teve força para engolir em seco e balbuciar humildemente: – Da ativa, minha senhora?.
 
-Referência: SABINO, F. A mulher do vizinho. In: Os melhores contos. Rio de Janeiro: Record, 1986.
+SABINO, F. A mulher do vizinho. In: Os melhores contos. Rio de Janeiro: Record, 1986.
 
-Pergunta: A representação do discurso intimidador engendrada no fragmento é responsável por
+A representação do discurso intimidador engendrada no fragmento é responsável por
 
-Alternativas:
-  A) ironizar atitudes e ideias xenofóbicas.
-  B) conferir à narrativa um tom anedótico.
-  C) dissimular o ponto de vista do narrador.
-  D) acentuar a hostilidade das personagens.
-  E) exaltar relações de poder estereotipadas.
+A) ironizar atitudes e ideias xenofóbicas.
+B) conferir à narrativa um tom anedótico.
+C) dissimular o ponto de vista do narrador.
+D) acentuar a hostilidade das personagens.
+E) exaltar relações de poder estereotipadas.
 
 Resposta correta: Alternativa B
 
@@ -413,27 +383,24 @@ Resposta correta: Alternativa B
 
 Questão 26:
 
-Título:
-
 Possui imagem : não
 
-Texto: Os velhos papéis, quando não são consumidos pelo fogo, às vezes acordam de seu sono para contar notícias do passado.
+Os velhos papéis, quando não são consumidos pelo fogo, às vezes acordam de seu sono para contar notícias do passado.
 É assim que se descobre algo novo de um nome antigo, sobre o qual já se julgava saber tudo, como Machado de Assis.
 Por exemplo, você provavelmente não sabe que o autor carioca, morto em 1908, escreveu uma letra do hino nacional em 1867 — e não poderia saber mesmo, porque os versos seguiam inéditos. Até hoje.
 Essa letra acaba de ser descoberta, em um jornal antigo de Florianópolis, pelo pesquisador independente Felipe Rissato.
 “Das florestas em que habito/ Solto um canto varonil:/ Em honra e glória de Pedro/ O gigante do Brasil”, diz o começo do hino, composto de sete estrofes em redondilhas maiores, ou seja, versos de sete sílabas poéticas. O trecho também é o refrão da música.
 O Pedro mencionado é o imperador Dom Pedro II. O bruxo do Cosme Velho compôs a letra para o aniversário de 42 anos do monarca, em 2 de dezembro daquele ano — o hino seria apresentado naquele dia no teatro da cidade de Desterro, antigo nome de Florianópolis.
 
-Referência: Disponível em: www.revistaprosaversoarte.com. Acesso em 4 dez. 2018 (adaptado)
+Disponível em: www.revistaprosaversoarte.com. Acesso em 4 dez. 2018 (adaptado)
 
-Pergunta:  Considerando-se as operações de retomada de informações do texto, há interdependência entre as expressões
+Considerando-se as operações de retomada de informações do texto, há interdependência entre as expressões
 
-Alternativas:
-  A) “Os velho papéis” e “É assim”.
-  B) “algo novo” e “sobre o qual.”
-  C) “um nome antigo” e “Por exemplo.”
-  D) “O gigante do Brasil” e “O Pedro mencionado.”
-  E) “o imperador Dom Pedro II” e “O bruxo do Cosme Velho”.
+A) “Os velho papéis” e “É assim”.
+B) “algo novo” e “sobre o qual.”
+C) “um nome antigo” e “Por exemplo.”
+D) “O gigante do Brasil” e “O Pedro mencionado.”
+E) “o imperador Dom Pedro II” e “O bruxo do Cosme Velho”.
 
 Resposta correta:  Alternativa D
 
@@ -441,26 +408,21 @@ Resposta correta:  Alternativa D
 
 Questão 27:
 
-Título:
-
-
-
 Possui imagem : sim
 
-Referência: RODRIGUES, S. Acervo Pessoal.
+RODRIGUES, S. Acervo Pessoal.
 
-Texto: A revolução estética brasiliense empurrou os designers de móveis dos anos 1950 e início dos 1960 para o novo. Induzidos a abandonar o gosto rebuscado pelo colonial, a trocar Ouro Preto por Brasília, eles criaram um mobiliário contemporâneo que ainda hoje vemos nas lojas e nas salas de espera de consultórios e escritórios, Colada no uso de madeiras nobres, como o jacarandá e a peroba, e em materiais de revestimento como o couro e a palhinha, desenvolveu-se uma tendência feita de linhas retas e curvas suaves, nos moldes da capital no Cerrado.
+A revolução estética brasiliense empurrou os designers de móveis dos anos 1950 e início dos 1960 para o novo. Induzidos a abandonar o gosto rebuscado pelo colonial, a trocar Ouro Preto por Brasília, eles criaram um mobiliário contemporâneo que ainda hoje vemos nas lojas e nas salas de espera de consultórios e escritórios, Colada no uso de madeiras nobres, como o jacarandá e a peroba, e em materiais de revestimento como o couro e a palhinha, desenvolveu-se uma tendência feita de linhas retas e curvas suaves, nos moldes da capital no Cerrado.
 
-Referência: CHAVES, D. Disponível em: www.veja.abril.com.br. Acesso em: 29 jul. 2010.
+CHAVES, D. Disponível em: www.veja.abril.com.br. Acesso em: 29 jul. 2010.
 
-Pergunta: Na reportagem sobre os 50 anos de Brasília, de Débora Chaves, com a reprodução fotográfica de cadeiras e poltronas de Sérgio Rodrigues, verifica-se que os elementos da estética brasiliense
+Na reportagem sobre os 50 anos de Brasília, de Débora Chaves, com a reprodução fotográfica de cadeiras e poltronas de Sérgio Rodrigues, verifica-se que os elementos da estética brasiliense
 
-Alternativas:
-  A) aparecem definidos nas linhas retas dos objetos.
-  B) expressam o desenho rebuscado por meio das linhas.
-  C) mostram a expressão assimétrica das linhas curvas suaves.
-  D) apontam a unidade de matéria-prima utilizada em sua fabricação.
-  E) surgem na simplificação das informações visuais de cada composição.
+A) aparecem definidos nas linhas retas dos objetos.
+B) expressam o desenho rebuscado por meio das linhas.
+C) mostram a expressão assimétrica das linhas curvas suaves.
+D) apontam a unidade de matéria-prima utilizada em sua fabricação.
+E) surgem na simplificação das informações visuais de cada composição.
 
 Resposta correta: Alternativa E
 
@@ -468,203 +430,324 @@ Resposta correta: Alternativa E
 
 Questão 28:
 
-Título: Thumbs Up
+Thumbs Up
 
-Texto: Thumbs Up Ponto positivo para o Facebook, que vai dar uma ajeitada na casa para, quem sabe, não ser mais conhecido como o espaço da treta. Durante a F8, sua conferência anual, a empresa anunciou a maior mudança de design do serviço em 5 anos, Agora, o polêmico feed de notícias deixa de ser o protagonista, e o queridinho da rede social se torna o segmento de Grupos (é o Orkut fazendo escola?). Segunda Mark Zuckerberg, mais de 1 bilhão de usuários mensais entram nessa aba do aplicativo e 400 mil deles já estão integrados em grupos de “assuntos significativos”. O objetivo agora é aumentar o tráfego, oferecendo mais sugestões e ferramentas especiais para quem gerencia essas comunidades. Além disso, o Marketplace, que já tem mais de 800 milhões de usuários, vai ganhar mais atenção e integração. Com isso, parece que há um novo padrão se montando na rede social” sai do feed, entra a segmentação que pode ser uma boa porta para monetizaçãi nos próximos anos. No mesmo evento, Zuckerberg também disse que o futuro do Facebook é a privacidade, mas não deu muitos detalhes de como vai proteger seus clientes daqui pra frente. Evitar que vazamentos de dados dos usuários aconteçam é um bom começa. #FicaaDica Disponível em: https://thebrief.us16.list-menage.com. Acesso em: 3 maio 2019 (adaptado). O texto relata que uma rede social virtual realizará sua maior mudança de design dos últimos anos. Esse fato revela que as tecnologias de informação e comunicação A) buscam oferecer mais privacidade. B) assimilam os comportamentos dos usuários. C) promovem maior interação em ambientes virtuais. D) oferecem mais facilidades para obter cada vez mais lucro. E) evoluem para ficar mais parecidas umas com as outras. Solução A mudança do Facebook, que agora foca nos Grupos, é motivada pelo comportamento dos usuários, como indicado pelo fato de que 1 bilhão de pessoas usam essa função. Isso é comprovado pelo trecho onde Mark Zuckerberg menciona que mais de 1 milhão de usuários mensais acessam essa aba do aplicativo, demonstrando uma tendência de substituição do feed pela segmentação. Alternativa B
+Ponto positivo para o Facebook, que vai dar uma ajeitada na casa para, quem sabe, não ser mais conhecido como espaço da treta. Durante a F8, sua conferência anual, a empresa anunciou a maior mudança de design do serviço em 5 anos. Agora, o polêmico feed de notícias deixa de ser o protagonista, e o queridinho da rede social se torna o segmento de Grupos (é o Orkut fazendo escola?). Segundo Mark Zuckerberg, mais de 1 bilhão de usuários mensais entraram nessa aba do aplicativo, e 400 mil deles já estão integrados em grupos de “assuntos significativos”. O objetivo agora é aumentar o tráfego, oferecendo mais sugestões e ferramentas especiais para quem gerencia essas comunidades. Além disso, o Marketplace, que já tem mais de 800 milhões de usuários, vai ganhar mais atenção e integração. Com isso, parece que há um novo padrão se montando na rede social: sai o feed, entra a segmentação, que pode ser uma boa porta para monetização nos próximos anos. No mesmo evento, Zuckerberg também disse que o futuro do Facebook é a privacidade, mas não deu muitos detalhes de como vai proteger seus clientes daqui para frente. Evitar que vazamentos de dados dos usuários aconteçam é um bom começo.
+#FicaaDica
 
-Alternativas:
-  A) buscam oferecer mais privacidade.
-  B) assimilam os comportamentos dos usuários.
-  C) promovem maior interação em ambientes virtuais.
-  D) oferecem mais facilidades para obter cada vez mais lucro.
-  E) evoluem para ficar mais parecidas umas com as outras.
+Disponível em: https://thebrief.us16.list-menage.com. Acesso em: 3 maio 2019 (adaptado).
 
-Solução: A mudança do Facebook, que agora foca nos Grupos, é motivada pelo comportamento dos usuários, como indicado pelo fato de que 1 bilhão de pessoas usam essa função. Isso é comprovado pelo trecho onde Mark Zuckerberg menciona que mais de 1 milhão de usuários mensais acessam essa aba do aplicativo, demonstrando uma tendência de substituição do feed pela segmentação.
+A) buscam oferecer mais privacidade.
+B) assimilam os comportamentos dos usuários.
+C) promovem maior interação em ambientes virtuais.
+D) oferecem mais facilidades para obter cada vez mais lucro.
+E) evoluem para ficar mais parecidas umas com as outras.
 
-Resposta correta:
-
-
-Referência: Disponível em: https://thebrief.us16.list-menage.com. Acesso em: 3 maio 2019 (adaptado).
+Resposta correta: Alternativa B
 
 --------------------------------------------------
 
 Questão 29:
-Título: Reaprender a ler notícias
-Texto: Reaprender a ler notícias Não dá mais para ler um jornal, revista ou assistir a um telejornal da mesma forma que fazíamos até o surgimento da rede mundial de computadores. O Observatório da Imprensa antecipou isso lá nos idos de 1996 quando cunhou o slogan “Você nunca mais vai ler jornal do mesmo jeito”. De fato, hoje já não basta mais ler o que está escrito ou falado para estar bem informado. É preciso conhecer as entrelinhas e saber que não há objetividade e nem isenção absolutas, porque cada ser humano vê o mundo de uma forma diferente. Ter um pé atrás passou a ser a regra básica número um de quem passa os olhos po uma primeira página, capa de revista ou chamadas de um noticiário na TV. Há uma diferença importante entre desconfiar de tudo e procurar ver o maior número possível de lados de um mesmo fato, dado ou evento. Apenas desconfiar não resolve porque se trata de uma atitude passiva. É claro, tudo começa com a dúvida, mas a partir dela é necessário ser proativo, ou seja, investigar, estudar, procurar os elementos ocultos que sempre existem numa notícia. No começo é um esforço solitário que pode se tornar coletivo à medida que mais pessoas descobrem sua vulnerabilidade informativa. Disponível em: www.observatoriodaimprensa.com.br. Acesso em 30 set. 2015 (adaptado). No texto, os argumentos apresentados permitem inferir que o objetivo do autor é convencer os leitores a A) buscarem fontes de informação comprometidas com a verdade. B) privilegiarem notícias veiculadas em jornais de grande circulação. C) adotarem uma postura crítica em relação às informações recebidas. D) questionarem a prática jornalística anterior ao surgimento da internet. E) valorizarem reportagens redigidas com imparcialidade diante dos fatos. Solução No último parágrafo, onde é dito que “tudo começa com a dúvida”, fica evidente o enfoque em uma postura crítica que deve ser adotada pelos leitores. O autor ressalta a importância de que os leitores tenham autonomia para questionar as informações que recebem e destaca a necessidade de uma checagem ativa das informações, afirmando que “apenas duvidar não resolve porque se trata de uma atitude passiva”. Dessa forma, os leitores são incentivados a adotar uma postura crítica em relação às informações recebidas. Alternativa C
-Alternativas:
-  A) buscarem fontes de informação comprometidas com a verdade.
-  B) privilegiarem notícias veiculadas em jornais de grande circulação.
-  C) adotarem uma postura crítica em relação às informações recebidas.
-  D) questionarem a prática jornalística anterior ao surgimento da internet.
-  E) valorizarem reportagens redigidas com imparcialidade diante dos fatos.
-Solução: No último parágrafo, onde é dito que “tudo começa com a dúvida”, fica evidente o enfoque em uma postura crítica que deve ser adotada pelos leitores. O autor ressalta a importância de que os leitores tenham autonomia para questionar as informações que recebem e destaca a necessidade de uma checagem ativa das informações, afirmando que “apenas duvidar não resolve porque se trata de uma atitude passiva”. Dessa forma, os leitores são incentivados a adotar uma postura crítica em relação às informações recebidas.
-Resposta correta: 
-Referência: Disponível em: www.observatoriodaimprensa.com.br. Acesso em 30 set. 2015 (adaptado).
+
+Reaprender a ler notícias
+
+Não dá mais para ler um jornal, revista ou assistir a um telejornal da mesma forma que fazíamos até o surgimento da rede mundial de computadores. O Observatório da Imprensa antecipou isso lá nos idos de 1996 quando cunhou o slogan “Você nunca mais vai ler o jornal do mesmo jeito”. De fato, hoje já não basta mais ler o que está escrito ou falado para estar bem informado. É preciso conhecer as entrelinhas e saber que não há objetividade e nem isenção absolutas, porque cada ser humano vê o mundo de uma forma diferente. Ter um pé atrás passou a ser regra básica número um de quem passa os olhos por um primeiro página, capa de revista ou chamadas de um noticiário na TV.
+Há uma diferença importante entre desconfiar de tudo e procurar ver o maior número possível de lados de um mesmo fato, dado ou evento. Apenas desconfiar não resolve porque se trata de um atitude passiva. É claro, tudo começa com a dúvida, mas a partir dela é necessário ser proativo, ou seja, investigar, estudar, procurar os elementos ocultos que sempre existem numa notícia. No começo é um esforço solitário que pode se tornar coletivo à medida que mais pessoas descobrem sua vulnerabilidade informativa.
+
+Disponível em: www.observatoriodaimprensa.com.br. Acesso em 30 set. 2015 (adaptado).
+
+No texto, os argumentos apresentados permitem inferir que o objetivo do autor é convencer os leitores a
+
+A) buscarem fontes de informação comprometidas com a verdade.
+B) privilegiarem notícias veiculadas em jornais de grande circulação.
+C) adotarem uma postura crítica em relação às informações recebidas.
+D) questionarem a prática jornalística anterior ao surgimento da internet.
+E) valorizarem reportagens redigidas com imparcialidade diante dos fatos.
+
+Resposta correta: Alternativa C
 
 --------------------------------------------------
 
 Questão 30:
-Título: Solução
-Texto: Não que Pelino fosse químico, longe disso: mas era sábio, era gramático. Ninguém escreviaem Tubiacanga que não levasse bordoada do Capitão Pelino, e mesmo quando se falava em algum homem notável lá no Rio, ele não deixava de dizer: “Não há dúvida” O homem tem talento, mas escreve: ‘um outro’, ‘de resto’…” E contraía os lábios como se tivesse engolido alguma cousa amarga. Toda a vila de Tubiacanga acostumou-se a respeitar o solene Pelino, que corrigia e emendava as maiores glórias nacionais. Um sábio… Ao entardecer, depois de ler um pouco o Sotero, o Candido de Figueiredo ou o Castro Lopes, e de ter passado mais uma vez a tintura nos cabelos, ovelho mestre-escola saía vagarosamente de casa, muito abotoado no seu paletó de brim mineiro, e encaminhava-se para a botica do Bastos a dar dous dedos de prosa. Conversar é um modo de dizer, porque ea Pelino avaro de palavras, limitando-se tão-somente a ouvir. Quando, porém, dos lábios de alguém escapava a menor incorreção de linguagem, intervinha e emendava. “Eu asseguro, dizia o agente do Correio, que…” Por aí, o mestre-escola intervinha com mansuetude evangélica: “Não diga ‘asseguro’, Senhor Bernardes; em português é garanto”. E a conversa continuava depois da emenda, para ser de novo interrompida por uma outra. Por essas e outras, houve muitos palestradores que se afastaram, mas Pelino, indiferente, seguro dos seus deveres, continuava o seu apostolado de vernaculismo. BARRETO, L. A Nova Califórnia. Disponível em: www.dominiopublico.gov.br. Acesso em: 24 jul. 2019. Do ponto de vista linguístico, a defesa da norma-padrão pelo personagem caracteriza-se por A) contestar o ensino de regras em detrimento do conteúdo das informações. B) resgatar valores patrióticos relacionados às tradições da língua portuguesa. C) adotar uma perspectiva complacente em relação aos desvios gramaticais. D) invalidar os usos da língua pautados pelos preceitos da gramática normativa. E) desconsiderar diferentes níveis de formalidade nas situações de comunicação. Solução O personagem foca exclusivamente na norma-padrão e desconsidera a variedade coloquial. Pelino, embora fosse “avaro de palavras, limitando-se apenas a ouvir”, não hesitava em intervir e corrigir sempre que “dos lábios de alguém escapasse a menor incorreção de linguagem”, demonstrando uma atitude que desconsidera completamente as “situações de comunicação” e o contexto social. Alternativa E
-Alternativas:
-  A) contestar o ensino de regras em detrimento do conteúdo das informações.
-  B) resgatar valores patrióticos relacionados às tradições da língua portuguesa.
-  C) adotar uma perspectiva complacente em relação aos desvios gramaticais.
-  D) invalidar os usos da língua pautados pelos preceitos da gramática normativa.
-  E) desconsiderar diferentes níveis de formalidade nas situações de comunicação.
-Solução: O personagem foca exclusivamente na norma-padrão e desconsidera a variedade coloquial. Pelino, embora fosse “avaro de palavras, limitando-se apenas a ouvir”, não hesitava em intervir e corrigir sempre que “dos lábios de alguém escapasse a menor incorreção de linguagem”, demonstrando uma atitude que desconsidera completamente as “situações de comunicação” e o contexto social.
-Resposta correta: 
-Referência: BARRETO, L. A Nova Califórnia. Disponível em: www.dominiopublico.gov.br. Acesso em: 24 jul. 2019.
+
+Não que Pelino fosse químico, longe disso; mas era sábio, era gramático. Ninguém escrevia em Tubiacanga que não levasse bordoada do Capitão Pelino, e mesmo quando se falava em algum homem notável lá no Rio, ele não deixava de dizer: “Não há dúvida! O homem tem talento, mas escreve: ‘um outro’, ‘de resto’…” E contraía os lábios como se tivesse engolido alguma cousa amarga.
+Toda a vila de Tubiacanga acostumou-se a respeitar o solene Pelino, que corrigia e emendava as maiores glórias nacionais. um sábio…
+Ao entardecer, depois de ler um pouco o Sotero, o Candido de Figueiredo ou o Castro Lopes, e de ter passado mais uma vez a tintura nos cabelos, o velho mestre-escola saía vagarosamente de casa, muito abotoado no seu paletó de brim mineiro, e encaminhava-se para a botica do Bastos a dar dous dedos de prosa. Conversar é um modo de dizer, porque era Pelino avaro de palavras, limitando-se tão-somente a ouvir. Quando, porém, dos lábios de alguém escapava a menor incorreção de linguagem, intervinha e emendava. “Eu asseguro, dizia o agente do Correio, que…” Por aí, o mestre-escola intervinha com mansuetude evangélica: “Não diga ‘asseguro’, Senhor Bernardes; em português é garanto”.
+E a conversa continuava depois da emenda, para ser de novo interrompida por uma outra. Por essas e outras, houve muitos palestradores que se afastaram, mas Pelino, indiferente, seguro dos seus deveres, continuava o seu apostolado de vernaculismo.
+
+BARRETO, L. A Nova Califórnia. Disponível em: www.dominiopublico.gov.br. Acesso em 24 jul. 2019.
+
+A) contestar o ensino de regras em detrimento do conteúdo das informações.
+B) resgatar valores patrióticos relacionados às tradições da língua portuguesa.
+C) adotar uma perspectiva complacente em relação aos desvios gramaticais.
+D) invalidar os usos da língua pautados pelos preceitos da gramática normativa.
+E) desconsiderar diferentes níveis de formalidade nas situações de comunicação.
+
+Resposta correta: Alternativa E
 
 --------------------------------------------------
 
 Questão 31:
-Título: Solução
-Texto: O skate apareceu como forma de vivência no lazer em períodos de baixa nas ondas e ficou conhecido como “surfinho”. No início foram utilizados eixos e rodinhas de patins pregados numa madeira qualquer, paraa sua composição, sendo as rodas de borracha ou ferro. O grande marco na história do skate ocorreu em 1974, quando o engenheiro químico chamado Frank Nasworthy descobriu o uretano, material mais flexível, que oferecia mais aderência às rodas. A dependência dos skatistas em relação a esse novo material igualmente alavancou o surgimento de novas manobras e possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade. O resultado foi a criação de campeonatos, marcas, fábricas e lojas especializadas. ARMBRUST, I.; LAURO, F. A. A. O skate e suas possibilidades educacionais. Motriz, jul.-set. 2010 (adaptado). De acordo com o texto, diversos fatores ao longo do tempo A) contribuíram para a democratização do skate. B) evidenciaram as demandas comerciais dos skatistas. C) definiram a carreira de skatista profissional. D) permitiram que a prática social do skate substituísse o surfe. E) indicaram a autonomia dos praticantes de skate. Solução O texto apresenta a história do skate, desde sua invenção até sua atual popularidade, mencionando a democratização do skate no trecho “[…] possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade.”  Alternativa A
-Alternativas:
-  A) contribuíram para a democratização do skate.
-  B) evidenciaram as demandas comerciais dos skatistas.
-  C) definiram a carreira de skatista profissional.
-  D) permitiram que a prática social do skate substituísse o surfe.
-  E) indicaram a autonomia dos praticantes de skate.
-Solução: O texto apresenta a história do skate, desde sua invenção até sua atual popularidade, mencionando a democratização do skate no trecho “[…] possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade.”
-Resposta correta: 
-Referência: ARMBRUST, I.; LAURO, F. A. A. O skate e suas possibilidades educacionais. Motriz, jul.-set. 2010 (adaptado).
+
+O skate apareceu como forma de vivência no lazer em períodos de baixa nas ondas e ficou conhecido como “surfinho”. No início foram utilizados eixos e rodinhas de patins pregados numa madeira qualquer, para sua composição, sendo as rodas de borracha ou ferro. O grande marco na história do skate ocorreu em 1974, quando o engenheiro químico chamado Frank Nasworthy descobriu o uretano, material mais flexível, que oferecia mais aderência às rodas. A dependência dos skatistas em relação a esse novo material igualmente alavancou o surgimento de novas manobras e possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade. O resultado foi a criação de campeonatos, marcas, fábricas e lojas especializadas.
+
+ARMBRUST, I; LAURD, G, A, A. O skate e suas possibilidades educacionais. Motriz, jul-set, 2010 (adaptado).
+
+A) contribuíram para a democratização do skate.
+B) evidenciaram as demandas comerciais dos skatistas.
+C) definiram a carreira de skatista profissional.
+D) permitiram que a prática social do skate substituísse o surfe.
+E) indicaram a autonomia dos praticantes de skate.
+
+Resposta correta: Alternativa A
 
 --------------------------------------------------
 
 Questão 32:
-Título: Estojo escolar
-Texto: Estojo escolar Rio de Janeiro – Noite dessas, ciscando num desses canais a cabo, vi uns caras oferecendo maravilhas eletrônicas, bastava telefonar e eu receberia um notebook capaz de me ajudar a fabricar um navio, uma estação espacial. […] Como pretendo viajar esses dias, habilitei-me a comprar aquilo que os caras anunciavam como o top do top em matéria de computador portátil. No sábado, recebi um embrulho complicado que necessitava de um manual de instruções para ser aberto. […] De repente, como vem acontecendo nos últimos tempos, houve um corte na memória e vi diante de mi o meu primeiro estojo escolar. Tinha 5 anos e ia para o jardim de infância. Era uma caixinha comprida, envernizada, com uma tampa que corria nas bordas do corpo principal. Dentro, arrumados em divisões, havia lápis coloridos, um apontador, uma lapiseira cromada, uma régua de 20cm e uma borracha para apagar meus erros. […] Da caixinha vinha um cheiro gostoso, cheiro que nunca esqueci e que me tonteava de prazer. […] O notebook que agora abro é negro e, em matéria de cheiro, é abominável. Cheira vilmente a telefone celular, a cabine de avião, a aparelho de ultrassonografia onde outro dia uma moça veio ver como sou por dentro. Acho que piorei de estojo e de vida. CONY, C. H. Crônicas para ler na escola. São Paulo: Objetiva, 2009 (adaptado). No texto, há marcas da função da linguagem que nele predomina. Essas marcas são responsáveis por colocar em foco o(a) A) mensagem, elevando-a à categoria de objeto estético do mundo das artes. B) código, transformando a linguagem utilizada no texto na própria temática abordada. C) contexto, fazendo das informações presentes no texto seu aspecto essencial. D) enunciador, buscando expressar sua atitude em relação ao conteúdo do enunciado. E) interlocutor, considerando-o responsável pelo direcionamento dado à narrativa pelo enunciador. Solução O sentido do texto é construído pela maneira como o narrador expressa suas reflexões e ações diante das situações. A crônica se concentra nas reflexões subjetivas do autor sobre um determinado elemento, reforçando a função emotiva da linguagem, que dá prioridade ao emissor da mensagem. Alternativa D
-Alternativas:
-  A) mensagem, elevando-a à categoria de objeto estético do mundo das artes.
-  B) código, transformando a linguagem utilizada no texto na própria temática abordada.
-  C) contexto, fazendo das informações presentes no texto seu aspecto essencial.
-  D) enunciador, buscando expressar sua atitude em relação ao conteúdo do enunciado.
-  E) interlocutor, considerando-o responsável pelo direcionamento dado à narrativa pelo enunciador.
-Solução: O sentido do texto é construído pela maneira como o narrador expressa suas reflexões e ações diante das situações. A crônica se concentra nas reflexões subjetivas do autor sobre um determinado elemento, reforçando a função emotiva da linguagem, que dá prioridade ao emissor da mensagem.
-Resposta correta: 
-Referência: CONY, C. H. Crônicas para ler na escola. São Paulo: Objetiva, 2009 (adaptado).
+
+Estojo escolar
+
+Rio de Janeiro – Noite dessas, ciscando num desses canais a cabo, vi uns caras oferecendo maravilhas eletrônicas, bastava telefonar e eu receberia um notebook capaz de me ajudar a fabricar um navio, uma estação espacial.
+[…] Como pretendo viajar esses dias, habilitei-me a comprar aquilo que os caras anunciavam como um top do top em matéria de computador portátil.
+No sábado, recebi um embrulho complicado que necessitava de um manual de instruções para ser aberto.
+[…] De repente, como vem acontecendo nos últimos tempos, houve um corte na memória e vi diante de mim meu primeiro estojo escolar. Tinha 5 anos e ia para para o jardim de infância.
+Era uma caixinha comprida, envernizada, com uma tampa que corria nas bordas do corpo principal. Dentro, arrumados em divisões, havia lápis coloridos, um apontador, uma lapiseira cromada, uma régua de 20cm e uma borracha para apagar meus erros.
+[…] Da caixinha vinha um cheiro gostoso, cheiro que nunca esqueci e que me tonteava de prazer. […]
+O notebook que agora abro é negro e, em matéria de cheiro, é abominável. Cheira vilmente a telefone celular, a cab
+
+CONY, C. H. Crônicas para ler na escola. São Paulo: Objetiva, 2009 (adaptado).
+
+No texto, há marcas da função da linguagem que nele predomina. Essas marcas são responsáveis por colocar em foco o(a)
+
+A) mensagem, elevando-a à categoria de objeto estético do mundo das artes.
+B) código, transformando a linguagem utilizada no texto na própria temática abordada.
+C) contexto, fazendo das informações presentes no texto seu aspecto essencial.
+D) enunciador, buscando expressar sua atitude em relação ao conteúdo do enunciado.
+E) interlocutor, considerando-o responsável pelo direcionamento dado à narrativa pelo enunciador.
+
+Resposta correta: Alternativa D
 
 --------------------------------------------------
 
 Questão 33:
-Título: Solução
-Texto: LEMOS, A. Artistas brasileiras. Belo Horizonte, Miguilim, 2018. O que assegura o reconhecimento desse texto em quadrinhos como prefácio é o (a) A) função de apresentação do livro. B) apelo emocional apoiado nas imagens. C) descrição do processo criativo da autora. D) referência à mescla dos trabalhos manual e digital. E) uso de elementos gráficos voltados para o público-alvo. Solução Embora o tema da obra não seja explicitado, a principal característica do prefácio é mantida, ao explicar o processo de produção do livro e preparar o leitor para a leitura. Alternativa A
-Alternativas:
-  A) função de apresentação do livro.
-  B) apelo emocional apoiado nas imagens.
-  C) descrição do processo criativo da autora.
-  D) referência à mescla dos trabalhos manual e digital.
-  E) uso de elementos gráficos voltados para o público-alvo.
-Solução: Embora o tema da obra não seja explicitado, a principal característica do prefácio é mantida, ao explicar o processo de produção do livro e preparar o leitor para a leitura.
-Resposta correta: 
-Referência: LEMOS, A. Artistas brasileiras. Belo Horizonte, Miguilim, 2018.
+
+Possui imagem : sim
+
+LEMOS, A. Artistas brasileiras. Belo Horizonte, Miguilim, 2018.
+
+O que assegura o reconhecimento desse texto em quadrinhos como prefácio é o(a)
+
+A) função de apresentação do livro.
+B) apelo emocional apoiado nas imagens.
+C) descrição do processo criativo da autora.
+D) referência à mescla dos trabalhos manual e digital.
+E) uso de elementos gráficos voltados para o público-alvo.
+
+Resposta correta: A
 
 --------------------------------------------------
 
 Questão 34:
-Título: Solução
-Texto: Disponível em: https.//g1.globo.com. Acesso em: 18 jun. 2019 (Adaptado) No texto, os recursos verbais e não verbais empregados têm por objetivo A) divulgar informações científicas sobre o uso indiscriminado de aparelhos celulares. B) influenciar o leitor a mudar atitudes e hábitos considerados prejudiciais às crianças. C) relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos. D) indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil E) sugerir aos pais e responsáveis a substituição de dispositivos móveis por atividades lúdicas Solução Observando a imagem, fica claro o forte apelo para a diminuição do uso dos celulares antes de dormir, devido aos seus efeitos prejudiciais às crianças. As imagens, combinadas com as mensagens verbais, visam conscientizar sobre os impactos mentais e físicos desse hábito, buscando reverter esse cenário. Alternativa B
-Alternativas:
-  A) divulgar informações científicas sobre o uso indiscriminado de aparelhos celulares.
-  B) influenciar o leitor a mudar atitudes e hábitos considerados prejudiciais às crianças.
-  C) relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos.
-  D) indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil
-  E) sugerir aos pais e responsáveis a substituição de dispositivos móveis por atividades lúdicas
-Solução: Observando a imagem, fica claro o forte apelo para a diminuição do uso dos celulares antes de dormir, devido aos seus efeitos prejudiciais às crianças. As imagens, combinadas com as mensagens verbais, visam conscientizar sobre os impactos mentais e físicos desse hábito, buscando reverter esse cenário.
-Resposta correta: 
-Referência: Disponível em: https.//g1.globo.com. Acesso em: 18 jun. 2019 (Adaptado)
+
+Possui imagem : sim
+
+Disponível em: https.//g1.globo.com. Acesso em: 18 jun. 2019 (Adaptado)
+
+No texto, os recursos verbais e não verbais empregados têm por objetivo
+
+A) divulgar informações científicas sobre o uso indiscriminado de aparelhos celulares.
+B) influenciar o leitor a mudar atitudes e hábitos considerados prejudiciais às crianças.
+C) relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos.
+D) indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil
+E) sugerir aos pais e responsáveis a substituição de dispositivos móveis por atividades lúdicas
+
+Resposta correta: B
 
 --------------------------------------------------
 
 Questão 35:
-Título: Singular ocorrência
-Texto: Singular ocorrência — Há ocorrências bem singulares. Está vendo aquela dama que vai entrando na igreja da Cruz? Parou agora no adro para dar uma esmola. — De preto? — Justamente, lá vai entrando; entrou. — Não ponha mais na carta. Esse olhar está dizendo que a dama é uma recordação de outro tempo, e não há de ser muito tempo, a julgar pelo corpo: é moça de truz. — Deve ter quarenta e seis anos: — Ah! conservada. Vamos lá; deixe de olhar para o chão e conte-me tudo. Está viúva, naturalmente? — Não — Bem; o marido ainda vive. É velho? — Não é casada. — Solteira? — Assim, assim. Deve chamar-se hoje D. Maria de tal. Em 1860 florescia com o nome familiar de Marocas. Não era costureira, nem proprietária, nem mestra de meninas, vá excluindo as profissões e chegará lá. Morava na Rua do Sacramento. Já então era esbelta, e, seguramente, mais linda do que hoje; modos sérios, linguagem limpa. ASSIS. M. Machado de Assis: seus 30 melhores contos. Rio de Janeiro: Aguiar, 1961. No diálogo, descortinam-se aspectos da condição da mulher em meados do século XIX. O ponto de vista dos personagens manifesta conceitos segundo os quais a mulher A) encontra um modo de dignificar-se na prática da caridade. B) preserva a aparência jovem conforme seu estilo de vida. C) condiciona seu bem-estar à estabilidade do casamento. D) tem sua identidade e seu lugar referendados pelo homem. E) renuncia à sua participação no mercado de trabalho. Solução Ao saber mais sobre a mulher, um dos homens pergunta: “Está viúva, naturalmente?” A palavra “naturalmente” sugere que os atributos positivos da mulher são atribuídos à ausência de um homem, como se ela fosse definida pela presença masculina, e não por suas próprias características. Na sequência narrativa, os personagens discutem a mulher sob o olhar julgador do homem, focando em sua aparência, profissão e estado civil. Alternativa D
-Alternativas:
-  A) encontra um modo de dignificar-se na prática da caridade.
-  B) preserva a aparência jovem conforme seu estilo de vida.
-  C) condiciona seu bem-estar à estabilidade do casamento.
-  D) tem sua identidade e seu lugar referendados pelo homem.
-  E) renuncia à sua participação no mercado de trabalho.
-Solução: Ao saber mais sobre a mulher, um dos homens pergunta: “Está viúva, naturalmente?” A palavra “naturalmente” sugere que os atributos positivos da mulher são atribuídos à ausência de um homem, como se ela fosse definida pela presença masculina, e não por suas próprias características. Na sequência narrativa, os personagens discutem a mulher sob o olhar julgador do homem, focando em sua aparência, profissão e estado civil.
-Resposta correta: 
-Referência: ASSIS. M. Machado de Assis: seus 30 melhores contos. Rio de Janeiro: Aguiar, 1961.
+
+Singular ocorrência
+
+– Há ocorrências bem singulares. Está vendo aquela dama que vai entrando na igreja da Cruz? Parou agora no adro para dar uma esmola.
+– De preto?
+– Justamente; lá vai entrando; entrou.
+– Não ponha mais na carta. Esse olhar está dizendo que a dama é uma recordação de outro tempo, e não há de ser muito tempo, a julgar pelo corpo: é moça de truz.
+– Deve ter quarenta e seis anos.
+– Ah, conservada. Vamos lá; deixe de olhar para o chão e conte-me tudo. Está viúva, naturalmente?
+– Não.
+– Bem; o marido ainda vive. É velho?
+– Não é casada.
+– Solteira?
+– Assim, assim. Deve chamar-se hoje D. Maria de tal. Em 1860 florescia com o nome familiar de Marocas. Não era costureira, nem proprietária, nem mestra de meninas; vá excluindo as profissões e chegará lá. Morava na Rua do Sacramento. Já então era esbelta, e, seguramente, mais linda do que hoje; modos sérios, linguagem limpa.
+
+ASSIS, M. Machado de Assis: seus 30 melhores contos.
+Rio de Janeiro: Aguilar, 1961.
+
+No diálogo, descortinam-se aspectos da condição da mulher em meados do século XIX. O ponto de vista dos personagens manifesta conceitos segundo os quais a mulher
+
+A) encontra um modo de dignificar-se na prática da caridade.
+B) preserva a aparência jovem conforme seu estilo de vida.
+C) condiciona seu bem-estar à estabilidade do casamento.
+D) tem sua identidade e seu lugar referendados pelo homem.
+E) renuncia à sua participação no mercado de trabalho.
+
+Resposta correta: D
 
 --------------------------------------------------
 
 Questão 36:
-Título: Solução
-Texto: TEXTO I TEXTO II As máscaras não foram feitas para serem usadas; elas se concentram apenas nas possibilidades antropomórficas dos recipientes plásticos descartados e, ao mesmo tempo, chamam a atenção para a quantidade de lixo que se acumula em quase todas as cidades ou aldeias africanas. FARTHING, S. Tudo sobre arte. Rio de Janeiro: Sextante; 2011 (adaptado) Romualdo Hazoumé costuma dizer que sua obra apenas manda de volta ao oeste o refugo de uma sociedade de consumo cada vez mais invasiva. A obra desse artista africano que vive no Benin denota o (a) A) empobrecimento do valor artístico pela combinação de diferentes matérias-primas. B) reposicionamento estético de objetos por meio da mudança de função. C) convite aos espectadores para interagir e completar obras inacabadas. D) militância com temas da ecologia que marcam o continente africano. E) realidade precária de suas condições de produção artística. Solução O artista ressignificou objetos descartados, transformando-os em máscaras e atribuindo-lhes valor estético. Com essa transformação, ele chama a atenção para o desperdício e o excesso de lixo na sociedade de consumo atual. Alternativa B
-Alternativas:
-  A) empobrecimento do valor artístico pela combinação de diferentes matérias-primas.
-  B) reposicionamento estético de objetos por meio da mudança de função.
-  C) convite aos espectadores para interagir e completar obras inacabadas.
-  D) militância com temas da ecologia que marcam o continente africano.
-  E) realidade precária de suas condições de produção artística.
-Solução: O artista ressignificou objetos descartados, transformando-os em máscaras e atribuindo-lhes valor estético. Com essa transformação, ele chama a atenção para o desperdício e o excesso de lixo na sociedade de consumo atual.
-Resposta correta: 
-Referência: FARTHING, S. Tudo sobre arte. Rio de Janeiro: Sextante; 2011 (adaptado)
+
+TEXTO I
+
+possui imagem sim.
+
+HAZOUMÉ, R. Nanawax. Plástico e tecido. Galerie Gagosion, 2009. Disponivel em: www.actuart.org Acesso em: 19 jun. 2019.
+
+TEXTO II
+
+As máscaras não foram feitas para serem usadas; elas se concentram apenas nas possibilidades antropomórficas dos recipientes plásticos descartados e, ao mesmo tempo, chamam a atenção para a quantidade de lixo que se acumula em quase todas as cidades ou aldeias africanas.
+
+FARTHING, S. Tudo sobre arte. Rio de Janeiro: Sextante; 2011 (adaptado)
+
+Romualdo Hazoumé costuma dizer que sua obra apenas manda de volta ao oeste o refugo de uma sociedade de consumo cada vez mais invasiva. A obra desse artista africano que vive no Benin denota o (a)
+
+A) empobrecimento do valor artístico pela combinação de diferentes matérias-primas.
+B) reposicionamento estético de objetos por meio da mudança de função.
+C) convite aos espectadores para interagir e completar obras inacabadas.
+D) militância com temas da ecologia que marcam o continente africano.
+E) realidade precária de suas condições de produção artística.
+
+Resposta correta: B
 
 --------------------------------------------------
 
 Questão 37:
-Título: Comportamento geral
-Texto: Comportamento geral Você deve estampar sempre um ar de alegriaE dizer: tudo tem melhoradoVocê deve rezar pelo bem do patrãoE esquecer que está desempregado Você mereceVocê mereceTudo vai bem, tudo legalCerveja, samba, e amanhã, seu ZéSe acabarem com teu carnaval Você deve aprender a baixar a cabeçaE dizer sempre: muito obrigadoSão palavras que ainda te deixam dizerPor ser homem bem disciplinado Deve pois só fazer pelo bem da naçãoTudo aquilo que for ordenadoPra ganhar um fuscão no juízo finalE diploma de bem-comportado GONZAGUINHA. Luiz Gonzaga Jr. Rio de Janeiro: Odeon; 1973 (fragmento) Pela análise do tema e dos procedimentos argumentativos utilizados na letra da canção composta por Gonzaguinha na década de 1970, infere-se o objetivo de A) ironizar a incorporação de ideias a atitudes conformistas. B) convencer o público sobre a importância dos deveres cívicos. C) relacionar o discurso religioso à resolução de problemas sociais. D) questionar o valor atribuído pela população às festas populares. E) defender uma postura coletiva indiferente aos valores dominantes. Solução A ironia permeia todo o texto, satirizando o conformismo do proletário, especialmente no trecho “São palavras que ainda te deixam dizer / Por se homem bem disciplinado.” Versos como “Você deve aprender a abaixar a cabeça/ E dizer sempre: muito obrigado” ilustram a postura submissa que o eu lírico critica. A canção de Gonzaguinha, ao questionar esse “comportamento geral,” reflete a atitude conformista diante dos problemas sociais. Alternativa A
-Alternativas:
-  A) ironizar a incorporação de ideias a atitudes conformistas.
-  B) convencer o público sobre a importância dos deveres cívicos.
-  C) relacionar o discurso religioso à resolução de problemas sociais.
-  D) questionar o valor atribuído pela população às festas populares.
-  E) defender uma postura coletiva indiferente aos valores dominantes.
-Solução: A ironia permeia todo o texto, satirizando o conformismo do proletário, especialmente no trecho “São palavras que ainda te deixam dizer / Por se homem bem disciplinado.” Versos como “Você deve aprender a abaixar a cabeça/ E dizer sempre: muito obrigado” ilustram a postura submissa que o eu lírico critica. A canção de Gonzaguinha, ao questionar esse “comportamento geral,” reflete a atitude conformista diante dos problemas sociais.
-Resposta correta: 
-Referência: GONZAGUINHA. Luiz Gonzaga Jr. Rio de Janeiro: Odeon; 1973 (fragmento)
+
+Comportamento geral
+
+Você deve estampar sempre um ar de alegria
+E dizer: tudo bem melhorado
+Você deve rezar pelo bem do patrão
+E esquecer que está desempregado
+
+Você merece
+Você merece
+Tudo vai bem, tudo legal
+Cerveja, samba, e amanhã, seu Zé
+Se acabarem com teu carnaval
+
+Você deve aprender a baixar a cabeça
+E dizer sempre: muito obrigado
+São palavras que ainda te deixam deixar
+Por ser homem bem disciplinado
+
+Deve pois só fazer pelo bem da nação
+Tudo aquilo que for ordenado
+Pra ganhar um fuscão no juízo final
+E diploma de bem-comportado
+
+GONZAGUINHA, Luiz Gonzaga Jr. Rio de Janeiro: Odeon, 1973 (fragmento).
+
+Pela análise do tema e dos procedimentos argumentativos utilizados na letra da canção composta por Gonzaguinha na década de 1970, insere-se o objetivo de
+
+A) ironizar a incorporação de ideias a atitudes conformistas.
+B) convencer o público sobre a importância dos deveres cívicos.
+C) relacionar o discurso religioso à resolução de problemas sociais.
+D) questionar o valor atribuído pela população às festas populares.
+E) defender uma postura coletiva indiferente aos valores dominantes.
+
+Resposta correta: A
 
 --------------------------------------------------
 
 Questão 38:
-Título: Solução
-Texto: Se for possível, manda-me dizer:— É lua cheia. A casa está vazia —Manda-me dizer, e o paraísoHá de ficar mais perto, e mais recenteMe há de parecer teu rosto incerto.Manda-me buscar se tens o diaTão longo como a noite. Se é verdadeQue sem mim só vês monotonia.E se te lembras do brilho das marésDe alguns peixes rosadosNumas águasE dos meus pés molhados, manda-me dizer:— É lua nova —E revestida de luz te volto a ver. HILST, H. Júbilo, memória, noviciado da paixão. São Paulo: Cia das Letras, 2018. Falando ao outro, o eu lírico revela-se vocalizando um desejo que remete ao A) ceticismo quanto à possibilidade do reencontro. B) tédio provocado pela distância física do ser amado. C) sonho de autorrealização desenhado pela memória. D) julgamento implícito das atitudes de quem se afasta. E) questionamento sobre o significado do amor ausente. Solução O eu lírico revela um sonho ao imaginar como seria ter sua “amada” ao seu lado, refletindo sobre um possível reencontro e associando-o a momentos já vividos juntos, como em “E se te lembras do brilho das marés…”. A canção utiliza vocabulário informal, exemplificado pelo substantivo “falação” e pela contração “pros,” que são comuns na linguagem coloquial. Alternativa A
-Alternativas:
-  A) ceticismo quanto à possibilidade do reencontro.
-  B) tédio provocado pela distância física do ser amado.
-  C) sonho de autorrealização desenhado pela memória.
-  D) julgamento implícito das atitudes de quem se afasta.
-  E) questionamento sobre o significado do amor ausente.
-Solução: O eu lírico revela um sonho ao imaginar como seria ter sua “amada” ao seu lado, refletindo sobre um possível reencontro e associando-o a momentos já vividos juntos, como em “E se te lembras do brilho das marés…”. A canção utiliza vocabulário informal, exemplificado pelo substantivo “falação” e pela contração “pros,” que são comuns na linguagem coloquial.
-Resposta correta: 
-Referência: HILST, H. Júbilo, memória, noviciado da paixão. São Paulo: Cia das Letras, 2018.
+
+Se for possível, manda-me dizer:
+– É lua cheia. A casa está vazia –
+Manda-me dizer, e o paraíso
+Há de ficar mais perto, e mais recente
+Me há de parecer teu rosto incerto.
+Manda-me buscar se tens o dia
+Tão longo como a noite. Se é verdade
+Que sem mim só vês monotonia.
+E se te lembras do brilho das marés
+De alguns peixes rosados
+Numas águas
+E dos meus pés molhados, manda-me dizer:
+– É lua nova –
+E revestida de luz te volto a ver.
+
+HILST, H. Júbilio, memória, noviciado da paixão. São Paulo: Cia das Letras, 2018.
+
+Falando ao outro, o eu lírico revela-se vocalizando um desejo que remete ao
+
+A) ceticismo quanto à possibilidade do reencontro.
+B) tédio provocado pela distância física do ser amado.
+C) sonho de autorrealização desenhado pela memória.
+D) julgamento implícito das atitudes de quem se afasta.
+E) questionamento sobre o significado do amor ausente.
+
+Resposta correta: C
 
 --------------------------------------------------
 
 Questão 39:
-Título: Falso moralista
-Texto: Falso moralista Você condena o que a moçada anda fazendoe não aceita o teatro de revistaarte moderna pra você não vale nadae até vedete você diz não ser artista Você se julga um tanto bom e até perfeitoPor qualquer coisa deita logo falaçãoMas eu conheço bem o seu defeitoe não vou fazer segredo não Você é visto toda sexta no Joáe não é só no Carnaval que vai pros bailes se acabarFim de semana você deixa a companheirae no bar com os amigos bebe bem a noite inteira Segunda-feira chega na repartiçãopede dispensa para ir ao oculistaE vai curar sua ressaca simplesmenteVocê não passa de um falso moralista NELSON SARGENTO. Sonho de um sambista. São Paulo: Eldorado, 1979. As letras de samba normalmente se caracterizam por apresentarem marcas informais do uso da língua. Nessa letra de Nelson Sargento, são exemplos dessas marcas A) “falação” e “pros bailes”. B) “você” e “teatro de revista”. C) “perfeito” e “Carnaval”. D) “bebe bem” e “oculista”. E) “curar” e “falso moralista”. Solução O uso de vocabulário informal na canção é exemplificado pelo substantivo “falação”, “moçada” típico da oralidade, e pela contração “pros,” que une “para os” de forma prosaica. Alternativa A
-Alternativas:
-  A) “falação” e “pros bailes”.
-  B) “você” e “teatro de revista”.
-  C) “perfeito” e “Carnaval”.
-  D) “bebe bem” e “oculista”.
-  E) “curar” e “falso moralista”.
-Solução: O uso de vocabulário informal na canção é exemplificado pelo substantivo “falação”, “moçada” típico da oralidade, e pela contração “pros,” que une “para os” de forma prosaica.
-Resposta correta: 
-Referência: NELSON SARGENTO. Sonho de um sambista. São Paulo: Eldorado, 1979.
+
+Falso moralista
+
+Você condena o que a moçada anda fazendo
+e não aceita o teatro de revista
+arte moderna pra você não vale nada
+e até vedete você diz não ser artista
+
+Você se julga um tanto bom e até perfeito
+Por qualquer coisa deita logo falação
+Mas eu conheço bem o seu defeito
+e não vou fazer segredo não
+
+Você é visto toda sexta no Joá
+e não é só no Carnaval que vai pros bailes se acabar
+Fim de semana você deixa a companheira
+e no bar com os amigos bebe bem a noite inteira
+
+Segunda-feira chega na repartição
+pede dispensa para ir ao oculista
+e vai curar sua ressaca simplesmente
+Você não passa de um falso moralista
+
+NELSON SARGENTO. Sonho de um sambista. São Paulo: Eldorado, 1979.
+
+As letras de samba normalmente se caracterizam por apresentarem marcas informais do uso da língua. Nessa letra de Nelson Sagento, são exemplos dessas marcas
+
+A) “falação” e “pros bailes”.
+B) “você” e “teatro de revista”.
+C) “perfeito” e “Carnaval”.
+D) “bebe bem” e “oculista”.
+E) “curar” e “falso moralista”.
+
+Resposta correta: A
 
 --------------------------------------------------
 
 Questão 40:
-Título: Introdução a Alda
-Texto: Introdução a Alda Dizem que ninguém mais a ama. Dizem que foi uma boa pessoa. Sua filha de doze anos não a visita nunca e talvez raramente se lembre dela. Puseram-na numa cidade triste de uniformes azuis e jalecos brancos, de onde não pôde mais sair. Lá, todos gritam-lhe irritados, mal se aproxima, ou lhe batem, como se faz com sacos de areia para treinar os músculos.  Sei que para todos ela já não é, ninguém lhe daria uma maça cheirosa, bem vermelha. Mas não é verdade que alguém não a possa mais amar. Eu amo-a. Amo-a quando a vejo por trás das grades de um palácio, onde se refugiou princesa, chegada pelos caminhos da dor. Quando fora do reino sente o mundo de mil lanças, e selvagem prepara-se, posta no olhar. Amo-a quando criança brinca na areia sem medo. Uns pés descalços, uma mulher sem intenções. Cercada de mundo, às vezes sofrendo-o ainda. CANÇADO, M. L. O sofredor do ver. Belo Horizonte: Autêntica, 2015. Ao descrever uma mulher internada em um hospital psiquiátrico, o narrador compõe um quadro que expressa sua percepção A) irônica quanto aos efeitos do abandono familiar. B) resignada em facce dos métodos terapêuticos em vigor. C) alimentada pela imersão lírica no espaço da segregação. D) inspirada pelo universo pouco conhecido da mente humana. E) demarcada por uma linguagem alinhada à busca da lucidez. Solução O narrador se coloca no lugar de Alda, enxergando-a por meio de suas ações, como uma “princesa” ou “criança.” Esse olhar do narrador confere à descrição da mulher abandonada em um hospital psicanalítico uma perspectiva carregada de simbolismos e ressignificação. Alternativa C
-Alternativas:
-  A) irônica quanto aos efeitos do abandono familiar.
-  B) resignada em facce dos métodos terapêuticos em vigor.
-  C) alimentada pela imersão lírica no espaço da segregação.
-  D) inspirada pelo universo pouco conhecido da mente humana.
-  E) demarcada por uma linguagem alinhada à busca da lucidez.
-Solução: O narrador se coloca no lugar de Alda, enxergando-a por meio de suas ações, como uma “princesa” ou “criança.” Esse olhar do narrador confere à descrição da mulher abandonada em um hospital psicanalítico uma perspectiva carregada de simbolismos e ressignificação.
-Resposta correta: 
-Referência: CANÇADO, M. L. O sofredor do ver. Belo Horizonte: Autêntica, 2015.
+
+Introdução a Alda
+
+Dizem que ninguém mais a ama. Dizem que foi uma boa pessoa. Sua filha de doze anos não a visita nunca e talvez raramente se lembre dela. Puseram-na numa cidade triste de uniformes azuis e janelecos brancos, de onde não pôde mais sair. Lá, todos gritaram-lhe irritados, mal se aproximava, ou lhe batem, como se faz com sacos de areia para treinar os músculos.
+Sei que para todos ela já não é, e ninguém lhe daria uma maçã cheirosa, bem vermelha. Mas não é verdade que alguém não a possa mais amar. Eu amo-a. Amo-a quando a vejo por trás das grades de um palácio, onde se refugiou princesa, chegada pelos caminhos da dor. Quando fora do reino sente o mundo de mil lanças, e selvagem prepara-se, posta no olhar. Amo-a quando criança brinca na areia sem medo. Uns pés descalços, uma mulher sem intenções. Cerecada de mundo, às vezes sofrendo-o ainda.
+
+CANÇADO, M. L. O sofredor do ver. Belo Horizonte: Autêntica, 2015.
+
+Ao descrever uma mulher internada em um hospital psiquiátrico, o narrador compõe um quadro que expressa sua percepção
+
+A) irônica quanto aos efeitos do abandono familiar.
+B) resignada em facce dos métodos terapêuticos em vigor.
+C) alimentada pela imersão lírica no espaço da segregação.
+D) inspirada pelo universo pouco conhecido da mente humana.
+E) demarcada por uma linguagem alinhada à busca da lucidez.
+
+Resposta correta: C
 
 --------------------------------------------------
 
